@@ -75,3 +75,29 @@ h1, h2 {
     letter-spacing: 2px;
     padding: 50px 100px;
 }
+
+/* footer */
+
+footer {
+    height: 300px;
+}
+
+#contact {
+    text-align: center;
+    text-shadow: 1ch;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #292929;
+}
