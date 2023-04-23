@@ -101,3 +101,16 @@ footer {
     padding: 5%;
     color: #292929;
 }
+
+/* beaches page */
+
+#top-left {
+    text-align: center;
+    overflow: hidden;
+    
+}
+
+#top-left, #top-right {
+    display: inline-block;
+    width: 45%;
+}
