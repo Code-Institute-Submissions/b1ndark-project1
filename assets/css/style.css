@@ -24,6 +24,7 @@ h1, h2 {
 #logo {
     float: left;
     font-size: 300%;
+    margin-left: 30px;
 }
 
 /* navigation links */
@@ -64,4 +65,13 @@ h1, h2 {
     background: url(../images/benagilcave.jpg) no-repeat center center;
     overflow: hidden;
     background-size: cover;
+}
+
+/* algarve where */
+
+#algarvewhere {
+    height: 400px;
+    text-align: center;
+    letter-spacing: 2px;
+    padding: 50px 100px;
 }
