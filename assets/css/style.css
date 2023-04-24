@@ -125,6 +125,7 @@ footer {
 /* first beach */
 
 #topbeach {
+    margin-left: 30px;
     width: 100%;
 }
 
@@ -149,6 +150,7 @@ footer {
 /* second beach */
 
 #centerbeach {
+    margin-left: 30px;
     margin-top: 150px;
     width: 100%;
 }
@@ -169,6 +171,34 @@ footer {
     display: inline-block;
     width: 45%;
 }
+
+/* third beach */
+
+#bottombeach {
+    margin-left: 30px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    width: 100%;
+}
+
+#bottom-left {
+    height: auto;
+    text-align: center;
+    overflow: hidden;
+    
+}
+
+#bottom-right {
+    height: auto;
+    text-align: center;
+    overflow: hidden;
+}
+
+#bottom-left, #bottom-right {
+    display: inline-block;
+    width: 45%;
+}
+
 
 /* Media queries */
 
