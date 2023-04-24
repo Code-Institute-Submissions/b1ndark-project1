@@ -12,6 +12,8 @@ body {
     color: #414141;
 }
 
+/* header styling */
+
 header {
     position: fixed;
     top: 0;
@@ -113,13 +115,38 @@ footer {
 
 /* beaches page */
 
+#topbeach {
+    width: 100%;
+}
+
+#beachestitle {
+    height: 200px;
+    padding-top: 150px;
+    text-align: center;
+    font-size: 150%;
+}
+
 #top-left {
+    height: auto;
     text-align: center;
     overflow: hidden;
     
 }
 
+#top-right {
+    height: auto;
+    text-align: center;
+    overflow: hidden;
+}
+
 #top-left, #top-right {
     display: inline-block;
     width: 45%;
+}
+
+/* Media queries */
+
+/* for larger to medium screen sizes from 1200px wide and down */
+@media screen and (max-width: 1200px) {
+    
 }
