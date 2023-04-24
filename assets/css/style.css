@@ -115,15 +115,17 @@ footer {
 
 /* beaches page */
 
-#topbeach {
-    width: 100%;
-}
-
 #beachestitle {
     height: 200px;
     padding-top: 150px;
     text-align: center;
     font-size: 150%;
+}
+
+/* first beach */
+
+#topbeach {
+    width: 100%;
 }
 
 #top-left {
@@ -140,6 +142,30 @@ footer {
 }
 
 #top-left, #top-right {
+    display: inline-block;
+    width: 45%;
+}
+
+/* second beach */
+
+#centerbeach {
+    margin-top: 150px;
+    width: 100%;
+}
+
+#center-left {
+    height: auto;
+    text-align: center;
+    overflow: hidden;
+}
+
+#center-right {
+    height: auto;
+    text-align: center;
+    overflow: hidden;
+}
+
+#center-left, #center-right {
     display: inline-block;
     width: 45%;
 }
