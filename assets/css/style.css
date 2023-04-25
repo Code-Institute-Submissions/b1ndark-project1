@@ -136,12 +136,6 @@ footer {
     width: 100%;
 }
 
-#left-div {
-    height: auto;
-    text-align: center;
-    overflow: hidden;   
-}
-
 #center-div {
     margin-left: 30px;
     margin-top: 150px;
@@ -155,6 +149,12 @@ footer {
     width: 100%;
 }
 
+#left-div {
+    height: auto;
+    text-align: center;
+    overflow: hidden;
+}
+
 #right-div {
     height: auto;
     text-align: center;
@@ -163,7 +163,7 @@ footer {
 
 #left-div, #right-div {
     display: inline-block;
-    width: 45%;
+    width: 48%;
 }
 
 /* Media queries */
