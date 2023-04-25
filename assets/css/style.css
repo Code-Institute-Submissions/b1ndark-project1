@@ -123,6 +123,12 @@ footer {
     font-size: 150%;
 }
 
+/* Images styles */
+
+#img-round-corners {
+    border-radius: 30px;
+}
+
 /* first beach */
 
 #topbeach {
