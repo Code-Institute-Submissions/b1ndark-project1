@@ -116,7 +116,7 @@ footer {
 
 /* beaches page */
 
-#beachestitle {
+#page-title {
     height: 200px;
     padding-top: 150px;
     text-align: center;
@@ -129,57 +129,24 @@ footer {
     border-radius: 30px;
 }
 
-/* first beach */
+/* Section beaches/activities */
 
 #top-div {
     margin-left: 30px;
     width: 100%;
 }
 
-#top-left {
+#left-div {
     height: auto;
     text-align: center;
-    overflow: hidden;
-    
+    overflow: hidden;   
 }
-
-#top-right {
-    height: auto;
-    text-align: center;
-    overflow: hidden;
-}
-
-#top-left, #top-right {
-    display: inline-block;
-    width: 45%;
-}
-
-/* second beach */
 
 #center-div {
     margin-left: 30px;
     margin-top: 150px;
     width: 100%;
 }
-
-#center-left {
-    height: auto;
-    text-align: center;
-    overflow: hidden;
-}
-
-#center-right {
-    height: auto;
-    text-align: center;
-    overflow: hidden;
-}
-
-#center-left, #center-right {
-    display: inline-block;
-    width: 45%;
-}
-
-/* third beach */
 
 #bottom-div {
     margin-left: 30px;
@@ -188,24 +155,16 @@ footer {
     width: 100%;
 }
 
-#bottom-left {
-    height: auto;
-    text-align: center;
-    overflow: hidden;
-    
-}
-
-#bottom-right {
+#right-div {
     height: auto;
     text-align: center;
     overflow: hidden;
 }
 
-#bottom-left, #bottom-right {
+#left-div, #right-div {
     display: inline-block;
     width: 45%;
 }
-
 
 /* Media queries */
 
