@@ -131,7 +131,7 @@ footer {
 
 /* first beach */
 
-#topbeach {
+#top-div {
     margin-left: 30px;
     width: 100%;
 }
@@ -156,7 +156,7 @@ footer {
 
 /* second beach */
 
-#centerbeach {
+#center-div {
     margin-left: 30px;
     margin-top: 150px;
     width: 100%;
@@ -181,7 +181,7 @@ footer {
 
 /* third beach */
 
-#bottombeach {
+#bottom-div {
     margin-left: 30px;
     margin-top: 150px;
     margin-bottom: 150px;
