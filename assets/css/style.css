@@ -168,6 +168,21 @@ footer {
 
 /* signup/form page */
 
+.signup-form {
+    margin: 75px 10px 0 0;
+    color: #fff;
+    background-color: rgba(44, 44, 44, 0.6);
+    max-width: 500px;
+    position: absolute;
+    left: 5%;
+    padding: 30px;
+    border-radius: 30px;
+}
+
+#signup-title-color {
+    color: #fff;
+    text-align: center;
+}
 
 /* Media queries */
 
