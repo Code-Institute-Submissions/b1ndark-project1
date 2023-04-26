@@ -184,9 +184,31 @@ footer {
     border-radius: 30px;
 }
 
-#signup-title-color {
+.signup-form > h2 {
     color: #fff;
     text-align: center;
+}
+
+.join-button {
+    margin-top: 20px;
+    border-radius: 10px;
+    padding: 10px 20px 10px 20px;
+    font-weight: bold;
+    text-align: center;
+    background-color: #fff;
+    color: #292929;
+    display: block;
+}
+
+
+
+.text-input:hover {
+    border-color: #535353;
+}
+
+.join-button:hover {
+    background-color: #535353;
+    color: #fff;
 }
 
 /* Media queries */
