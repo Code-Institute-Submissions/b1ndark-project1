@@ -207,6 +207,11 @@ footer {
     border-radius: 3px;
 }
 
+#text {
+    height: 50px;
+    width: 100%;
+}
+
 .text-input:hover {
     border-color: #fff;
 }
