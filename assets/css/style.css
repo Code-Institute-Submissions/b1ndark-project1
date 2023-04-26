@@ -168,6 +168,11 @@ footer {
 
 /* signup/form page */
 
+#sunset-image {
+    overflow: hidden;
+    background-size: cover;
+}
+
 .signup-form {
     margin: 75px 10px 0 0;
     color: #fff;
