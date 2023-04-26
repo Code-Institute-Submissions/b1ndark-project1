@@ -177,7 +177,7 @@ footer {
     margin: 75px 10px 0 0;
     color: #fff;
     background-color: rgba(44, 44, 44, 0.6);
-    max-width: 500px;
+    max-width: 550px;
     position: absolute;
     left: 5%;
     padding: 30px;
@@ -200,10 +200,15 @@ footer {
     display: block;
 }
 
-
+.text-input {
+    background: transparent;
+    color: #fff;
+    border: 1px solid #fff;
+    border-radius: 3px;
+}
 
 .text-input:hover {
-    border-color: #535353;
+    border-color: #fff;
 }
 
 .join-button:hover {
