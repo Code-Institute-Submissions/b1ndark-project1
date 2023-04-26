@@ -208,8 +208,9 @@ footer {
 }
 
 #text {
-    height: 50px;
+    height: 100px;
     width: 100%;
+    resize: none;
 }
 
 .text-input:hover {
