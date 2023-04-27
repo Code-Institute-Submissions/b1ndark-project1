@@ -129,11 +129,17 @@ footer {
 
 .img-round-corners {
     height: 500px;
-    width: auto;
+    width: 600px;
     border-radius: 30px;
 }
 
 .img-one-beach {
+    height: 500px;
+    width: auto;
+    border-radius: 30px;
+}
+
+.img-one-activities {
     height: 500px;
     width: auto;
     border-radius: 30px;
