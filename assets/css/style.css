@@ -280,4 +280,21 @@ footer {
         height: auto;
     }
 
+    .top-div-resize, .bottom-div-resize {
+        flex-direction: column;
+    }
+
+    .center-div-resize {
+        flex-direction: column-reverse;
+    }
+
+    .top-image-content-resize {
+        height: auto;
+        width: auto;
+    }
+
+    .image-content-resize {
+        height: auto;
+        width: auto;
+    }
 }
