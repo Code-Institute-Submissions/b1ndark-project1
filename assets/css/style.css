@@ -81,7 +81,7 @@ h1, h2 {
 
 /* algarve where */
 
-#algarvewhere {
+.algarvewhere {
     height: 400px;
     text-align: center;
     letter-spacing: 2px;
@@ -118,7 +118,7 @@ footer {
 
 /* beaches page */
 
-#page-title {
+.page-title {
     height: 200px;
     padding-top: 150px;
     text-align: center;
@@ -127,43 +127,45 @@ footer {
 
 /* Images styles */
 
-#img-round-corners {
+.img-round-corners {
     border-radius: 30px;
 }
 
+.img-one-beach
+
 /* Section beaches/activities */
 
-#top-div {
-    margin-left: 30px;
+.top-div {
+    display: flex;
     width: 100%;
 }
 
-#center-div {
+.center-div {
     margin-left: 30px;
     margin-top: 150px;
     width: 100%;
 }
 
-#bottom-div {
+.bottom-div {
     margin-left: 30px;
     margin-top: 150px;
     margin-bottom: 150px;
     width: 100%;
 }
 
-#left-div {
+.left-div {
     height: auto;
     text-align: center;
     overflow: hidden;
 }
 
-#right-div {
+.right-div {
     height: auto;
     text-align: center;
     overflow: hidden;
 }
 
-#left-div, #right-div {
+.left-div, .right-div {
     display: inline-block;
     width: 48%;
 }
@@ -254,12 +256,12 @@ footer {
         display: flex;
     }
 
-    #section-resize {
+    .section-resize {
         height: auto;
         width: 100%;
     }
 
-    #algarvewhere {
+    .algarvewhere {
         height: auto;
     }
 
