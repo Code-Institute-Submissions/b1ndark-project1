@@ -255,31 +255,12 @@ footer {
     }
 
     #section-resize {
-        height: 1200px;
+        height: auto;
         width: 100%;
-        margin: 0 auto;
     }
 
-    #left-div, #right-div {
-        display: block;
-        width: 100%;
-        width: inherit;
+    #algarvewhere {
+        height: auto;
     }
 
-    #top-div, #center-div, #bottom-div h3 {
-        width: 100%;
-        text-align: center;
-    }
-
-    #top-div, #center-div, #bottom-div div {
-        text-align: center;
-        padding: 0 20px 0 20px;
-    }
-
-    footer {
-        display: block;
-        float: none;
-        width: 100%;
-
-    }
 }
