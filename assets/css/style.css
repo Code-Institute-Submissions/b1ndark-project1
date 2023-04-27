@@ -128,29 +128,38 @@ footer {
 /* Images styles */
 
 .img-round-corners {
+    height: 500px;
+    width: auto;
     border-radius: 30px;
 }
 
-.img-one-beach
+.img-one-beach {
+    height: 500px;
+    width: auto;
+    border-radius: 30px;
+}
 
 /* Section beaches/activities */
 
 .top-div {
     display: flex;
     width: 100%;
+    align-items: center;
+    justify-content: center;
 }
 
 .center-div {
-    margin-left: 30px;
-    margin-top: 150px;
+    display: flex;
     width: 100%;
+    align-items: center;
+    justify-content: center;
 }
 
 .bottom-div {
-    margin-left: 30px;
-    margin-top: 150px;
-    margin-bottom: 150px;
+    display: flex;
     width: 100%;
+    align-items: center;
+    justify-content: center;
 }
 
 .left-div {
