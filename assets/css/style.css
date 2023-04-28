@@ -258,10 +258,6 @@ footer {
 
 /* Media queries */
 
-/* for larger to medium screen sizes from 1200px wide and down */
-
-
-
 /* for medium screens sizes from 950px wide and down */
 
 @media screen and (max-width: 950px) {
@@ -303,7 +299,7 @@ footer {
     }
 
     .img-round-corners, .img-one-beach {
-        width: 375px;
+        width: 360px;
     }
     
     footer {
