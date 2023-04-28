@@ -199,17 +199,19 @@ footer {
 #sunset-outer{
     height: 1000px;
     width: 100%;
-    overflow: hidden;
-
+    display: flex;
+    flex-direction: column;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    align-items: center;
+    justify-content: space-between;
 }
 
 #sunset-image {
     background: url(../images/algarvesunset.jpg) no-repeat center center;
     height: 1000px;
     width: 100%;
-    position: relative;
-    clear: left;
-    display: flex;
+    margin-top: 75px;
 }
 
 .signup-form {
