@@ -94,11 +94,15 @@ h1, h2 {
 footer {
     margin-top: 75px;
     height: 300px;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
 }
 
 #contact {
     text-align: center;
     text-shadow: 1ch;
+    font-size: smaller;
 }
 
 .social-networks {
@@ -262,7 +266,7 @@ footer {
 
 @media screen and (max-width: 950px) {
     #menu {
-        font-size: 15px;
+        font-size: 14px;
         clear: left;
         align-items: center;
         margin-left: 20px;
@@ -301,5 +305,9 @@ footer {
     .img-round-corners, .img-one-beach {
         width: 375px;
     }
-   
+    
+    footer {
+        font-size: smaller;
+    }
+
 }
