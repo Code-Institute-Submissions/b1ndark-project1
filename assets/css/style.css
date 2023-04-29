@@ -310,6 +310,14 @@ footer {
         width: 360px;
     }
     
+    #page-title {
+        text-align: center;
+    }
+
+    .signup-form {
+        margin-left: 0;
+    }
+
     footer {
         margin-top: 0;
         font-size: smaller;
