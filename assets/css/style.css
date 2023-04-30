@@ -326,8 +326,7 @@ footer {
 
 @media screen and (max-width: 576px) {
     #menu {
-        margin-left: 3%;
-        font-size: 14px;
+        font-size: 13px;
     }
 
     footer {
@@ -336,9 +335,9 @@ footer {
     }
 }
 
-/* for extra small screen sizes from 320px wide and down */
+/* for extra small screen sizes from 335px wide and down */
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 335px) {
     #menu {
         font-size: 11px;
     }
