@@ -73,3 +73,20 @@ Users of this website will acquire knowledge about beaches and activies, from te
 
 <br>
 
+## Validator Testing
+
+- HTML
+    - No errors were found when tested with W3C vallidator
+- CSS
+    - No errors were found when tested with Jigsaw validator
+- Accessibility
+    - I can confirm that the fonts and colors chosen are easy to read
+<br>
+
+## Deployment
+
+- The website was deployed to Github pages. Steps to deploy:
+    - In the Github repository, navigate to the settings tab
+    - then scroll down and on your left select Pages and go to branch
+    - once the master branch has been selected, wait a a momment and it will provide a page link to the completed website.
+The live link can be found here - https://b1ndark.github.io/project1/
