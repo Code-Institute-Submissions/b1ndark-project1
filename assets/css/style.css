@@ -326,11 +326,24 @@ footer {
 
 @media screen and (max-width: 576px) {
     #menu {
+        margin-left: 3%;
         font-size: 14px;
     }
 
     footer {
         margin-top: 0;
         font-size: smaller;
+    }
+}
+
+/* for extra small screen sizes from 320px wide and down */
+
+@media screen and (max-width: 320px) {
+    #menu {
+        font-size: 11px;
+    }
+
+    .img-round-corners, .img-one-beach, .top-image-content-resize {
+        width: 320px;
     }
 }
