@@ -9,6 +9,7 @@ Users of this website will acquire knowledge about beaches and activies, from te
 <br>
 
 ![CI logo](https://i.gyazo.com/fef93d5f9e4e0a9a6285bd5a37561588.png)
+
 https://ui.dev/amiresponsive?url=https://b1ndark.github.io/project1/
 
 ## Features
@@ -18,7 +19,6 @@ https://ui.dev/amiresponsive?url=https://b1ndark.github.io/project1/
 
     - Featured at the top of the page, the navigation shows the Algarve name on the left corner, Algarve logo that links to the top of the home page.
     - To the right are other navigation links: Beaches, Activities and Sign Up which link to diferente pages.
-    - 
 
 ![CI logo](https://i.gyazo.com/7262d3db674906c1e0f761cce923d8a1.png)
 <br>
@@ -70,7 +70,6 @@ https://ui.dev/amiresponsive?url=https://b1ndark.github.io/project1/
     - Initialy fixed it by using z-index, but as it was bad practice I found a way around it and removed the z-index.
 - Discovered that there was a bug with smaller screens where the Home button on the nav bar would go under the under the Sign Up button.
     - Reduced the letter-spacing to 1px.
--
 
 <br>
 
