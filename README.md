@@ -55,3 +55,21 @@ Users of this website will acquire knowledge about beaches and activies, from te
 <br>
 <br>
 
+## Testing
+
+- I have tested that this website works on diferent types of browsers like Chrome, Safari and Firefox.
+- The project is responsive as I have tested it on diferent types of screen sizes using devtools.
+- All content of every page is readable and easy to understand.
+- All locations presented on the website work, once you click them it will open a new tab.
+- The form in the Sign Up page works as it should, email field only accepts emails and submit button works.
+
+## Bugs
+
+- Fixed issue with header where the form was overlapping the header.
+    - Initialy fixed it by using z-index, but as it was bad practice I found a way around it and removed the z-index.
+- Discovered that there was a bug with smaller screens where the Home button on the nav bar would go under the under the Sign Up button.
+    - Reduced the letter-spacing to 1px.
+-
+
+<br>
+
