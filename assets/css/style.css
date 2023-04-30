@@ -339,7 +339,7 @@ footer {
 
 @media screen and (max-width: 335px) {
     #menu {
-        font-size: 11px;
+        letter-spacing: 1px;
     }
 
     .img-round-corners, .img-one-beach, .top-image-content-resize {
