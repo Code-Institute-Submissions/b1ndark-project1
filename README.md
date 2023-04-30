@@ -136,3 +136,9 @@ ___
     - For the GPS locations I have used Google maps.
     
     - The screenshots supplied to decorate the Readme file I have used [Gyazo](https://gyazo.com/)
+    
+    - Footer social network links from:
+        - Facebook
+        - Instagram
+        - Twitter
+        - Youtube
