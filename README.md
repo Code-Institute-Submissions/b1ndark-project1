@@ -9,6 +9,7 @@ Users of this website will acquire knowledge about beaches and activies, from te
 <br>
 
 ![CI logo](https://i.gyazo.com/fef93d5f9e4e0a9a6285bd5a37561588.png)
+https://ui.dev/amiresponsive?url=https://b1ndark.github.io/project1/
 
 ## Features
 <br>
