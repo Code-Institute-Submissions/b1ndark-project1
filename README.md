@@ -10,7 +10,7 @@ Users of this website will acquire knowledge about beaches and activies, from te
 
 ![CI logo](https://i.gyazo.com/fef93d5f9e4e0a9a6285bd5a37561588.png)
 
-https://ui.dev/amiresponsive?url=https://b1ndark.github.io/project1/
+[My website on Am I Responsive](https://ui.dev/amiresponsive?url=https://b1ndark.github.io/project1/)
 
 ## Features
 <br>
@@ -22,6 +22,7 @@ https://ui.dev/amiresponsive?url=https://b1ndark.github.io/project1/
 
 ![CI logo](https://i.gyazo.com/7262d3db674906c1e0f761cce923d8a1.png)
 <br>
+___ 
 
 - ### The Header
 
@@ -30,6 +31,7 @@ https://ui.dev/amiresponsive?url=https://b1ndark.github.io/project1/
 
 ![CI logo](https://i.gyazo.com/89ad13b21c26bf06abef26aa15148b07.png)
 <br>
+___ 
 
 - ### Beaches
 
@@ -38,6 +40,7 @@ https://ui.dev/amiresponsive?url=https://b1ndark.github.io/project1/
 
 ![CI logo](https://i.gyazo.com/9833bc839d89b81f0b61fd9c3ceba569.png)
 <br>
+___ 
 
 - ### Activities
 
@@ -46,6 +49,7 @@ https://ui.dev/amiresponsive?url=https://b1ndark.github.io/project1/
 
 ![CI logo](https://i.gyazo.com/8aad51ca4718a178867d9f0f40b4493a.png)
 <br>
+___ 
 
 - ### Sign Up
 
@@ -55,6 +59,7 @@ https://ui.dev/amiresponsive?url=https://b1ndark.github.io/project1/
 ![CI logo](https://i.gyazo.com/4f795f747d80ad5653a146af7898facc.png)
 <br>
 <br>
+___ 
 
 ## Testing
 
@@ -63,6 +68,8 @@ https://ui.dev/amiresponsive?url=https://b1ndark.github.io/project1/
 - All content of every page is readable and easy to understand.
 - All locations presented on the website work, once you click them it will open a new tab.
 - The form in the Sign Up page works as it should, email field only accepts emails and submit button works.
+<br>
+___ 
 
 ## Bugs
 
@@ -70,8 +77,8 @@ https://ui.dev/amiresponsive?url=https://b1ndark.github.io/project1/
     - Initialy fixed it by using z-index, but as it was bad practice I found a way around it and removed the z-index.
 - Discovered that there was a bug with smaller screens where the Home button on the nav bar would go under the under the Sign Up button.
     - Reduced the letter-spacing to 1px.
-
 <br>
+___ 
 
 ## Validator Testing
 
@@ -82,6 +89,7 @@ https://ui.dev/amiresponsive?url=https://b1ndark.github.io/project1/
 - Accessibility
     - I can confirm that the fonts and colors chosen are easy to read
 <br>
+___ 
 
 ## Deployment
 
@@ -89,19 +97,19 @@ https://ui.dev/amiresponsive?url=https://b1ndark.github.io/project1/
     - In the Github repository, navigate to the settings tab
     - then scroll down and on your left select Pages and go to branch
     - once the master branch has been selected, wait a a momment and it will provide a page link to the completed website.
-The live link can be found here - https://b1ndark.github.io/project1/
-
+The live link can be found here - [My Website](https://b1ndark.github.io/project1/)
 <br>
+___ 
 
 ## Credits
 
  - ### Content
 
-    - Visit Portugal - https://www.visitportugal.com/en/node/141915
-    - Algarve Tourist - https://www.algarve-tourist.com/praia-da-rocha-portugal-algarve-guide.html
-    - Algarve Cave Tours - https://www.algarvecavetours.com/
-    - Skydiving Algarve - https://www.skydivealgarve.com/
-    - Zoomarine - https://www.zoomarine.pt/en/
+    - [Visit Portugal](https://www.visitportugal.com/en/node/141915)
+    - [Algarve Tourist](https://www.algarve-tourist.com/praia-da-rocha-portugal-algarve-guide.html)
+    - [Algarve Cave Tours](https://www.algarvecavetours.com/)
+    - [Skydiving Algarve](https://www.skydivealgarve.com/)
+    - [Zoomarine](https://www.zoomarine.pt/en/)
 <br>
 
  - ### Media
@@ -109,9 +117,9 @@ The live link can be found here - https://b1ndark.github.io/project1/
     - Various resources used to get the photos and some of them by myself.
 
     - Websites used-
-       - https://picjumbo.com
-       - https://pixabay.com
-       - https://unsplash.com
+       - [PicJumbo](https://picjumbo.com)
+       - [Pixabay](https://pixabay.com)
+       - [Unsplash](https://unsplash.com)
 
     - Photos Authors and where to find them:
        - camilobeach - photo of Camilo beach - by Lukas Talab(https://picjumbo.com/couple-on-a-beach-enjoying-sunrise/)
@@ -123,8 +131,8 @@ The live link can be found here - https://b1ndark.github.io/project1/
        - zoomarine - photo of Zoomarine which is located at Albufeira in Algarve - by Craig Lovelidge(https://unsplash.com/photos/5iiI5wVXY8M)
        - skydiving - photo of a people skydiving and you can see the Algarve International Circuit in the background where Formula 1 and moto GP occurs - by Kamil Pietrzak(https://unsplash.com/photos/G0FsO2Ca8nQ)
 
-    - The Icon on the website tab I have used https://favicon.io/emoji-favicons/sun/
+    - The Icon on the website tab I have used [Favicon](https://favicon.io/emoji-favicons/sun/)
 
     - For the GPS locations I have used Google maps.
     
-    - The screenshots supplied to decorate the Readme file I have used https://gyazo.com/
+    - The screenshots supplied to decorate the Readme file I have used [Gyazo](https://gyazo.com/)
