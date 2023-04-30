@@ -29,3 +29,29 @@ Users of this website will acquire knowledge about beaches and activies, from te
 
 ![CI logo](https://i.gyazo.com/89ad13b21c26bf06abef26aa15148b07.png)
 <br>
+
+- ### Beaches
+
+    - The Beaches page presents examples of beaches in the coast of Algarve.
+    - Also presents info about them like their water temps and locations.
+
+![CI logo](https://i.gyazo.com/9833bc839d89b81f0b61fd9c3ceba569.png)
+<br>
+
+- ### Activities
+
+    - The Activites page presents examples of activities that can be done in Algarve.
+    - ALso presents info about them and their locations.
+
+![CI logo](https://i.gyazo.com/8aad51ca4718a178867d9f0f40b4493a.png)
+<br>
+
+- ### Sign Up
+
+    - The Sign Up page allows the user to contact to obtain more info regarding the content presented.
+    - Also other info on other beaches or type of activites that we might be able to help with.
+
+![CI logo](https://i.gyazo.com/4f795f747d80ad5653a146af7898facc.png)
+<br>
+<br>
+
