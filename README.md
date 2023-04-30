@@ -90,3 +90,41 @@ Users of this website will acquire knowledge about beaches and activies, from te
     - then scroll down and on your left select Pages and go to branch
     - once the master branch has been selected, wait a a momment and it will provide a page link to the completed website.
 The live link can be found here - https://b1ndark.github.io/project1/
+
+<br>
+
+## Credits
+
+ - ### Content
+
+    - Visit Portugal - https://www.visitportugal.com/en/node/141915
+    - Algarve Tourist - https://www.algarve-tourist.com/praia-da-rocha-portugal-algarve-guide.html
+    - Algarve Cave Tours - https://www.algarvecavetours.com/
+    - Skydiving Algarve - https://www.skydivealgarve.com/
+    - Zoomarine - https://www.zoomarine.pt/en/
+<br>
+
+ - ### Media
+
+    - Various resources used to get the photos and some of them by myself.
+
+    - Websites used-
+       - https://picjumbo.com
+       - https://pixabay.com
+       - https://unsplash.com
+
+    - Photos Authors and where to find them:
+       - camilobeach - photo of Camilo beach - by Lukas Talab(https://picjumbo.com/couple-on-a-beach-enjoying-sunrise/)
+       - rochabreach - photo of Rocha beach in Portimao - by me
+       - carvalhobeach - photo of Carvalho beach near Benagil - by me
+       - benagilcave - photo of a beach inside a cave in Benagil - by Julius_Silver(https://pixabay.com/photos/portugal-algarve-benagil-selfie-3029665/)
+       - cavetour - photo of cave tours in Algarve - by Max Zed(https://unsplash.com/photos/RhCcwI570bE)
+       - algarvesunset - photo of sunset in Algarve - by ddzphoto(https://pixabay.com/photos/portugal-beach-sunset-sea-scenic-2392312/)
+       - zoomarine - photo of Zoomarine which is located at Albufeira in Algarve - by Craig Lovelidge(https://unsplash.com/photos/5iiI5wVXY8M)
+       - skydiving - photo of a people skydiving and you can see the Algarve International Circuit in the background where Formula 1 and moto GP occurs - by Kamil Pietrzak(https://unsplash.com/photos/G0FsO2Ca8nQ)
+
+    - The Icon on the website tab I have used https://favicon.io/emoji-favicons/sun/
+
+    - For the GPS locations I have used Google maps.
+    
+    - The screenshots supplied to decorate the Readme file I have used https://gyazo.com/
