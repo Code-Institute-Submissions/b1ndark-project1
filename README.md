@@ -139,7 +139,7 @@ ___
     - The screenshots supplied to decorate the Readme file I have used [Gyazo](https://gyazo.com/)
     
     - Footer social network links from:
-        - Facebook
-        - Instagram
-        - Twitter
-        - Youtube
+        - [Facebook](https://www.facebook.com/)
+        - [Instagram](https://www.instagram.com/)
+        - [Twitter](https://twitter.com/)
+        - [Youtube](https://www.youtube.com/)
