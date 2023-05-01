@@ -24,7 +24,7 @@ header {
 /* headings and logo */
 
 h1, h2 {
-    font-family: PT Sans, sans-serif;
+    font-family: 'PT Sans', sans-serif;
     text-transform: uppercase;
     letter-spacing: 3px;
     color: #292929;
