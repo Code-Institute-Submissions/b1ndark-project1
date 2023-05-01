@@ -106,6 +106,7 @@ ___
  - ### Content
 
     - [Visit Portugal](https://www.visitportugal.com/en/node/141915)
+    - [Sun-hat-villas](https://www.sun-hat-villas.com/algarve/carvoeiro/beaches/praia-do-carvalho)
     - [Algarve Tourist](https://www.algarve-tourist.com/praia-da-rocha-portugal-algarve-guide.html)
     - [Algarve Cave Tours](https://www.algarvecavetours.com/)
     - [Skydiving Algarve](https://www.skydivealgarve.com/)
@@ -133,7 +134,7 @@ ___
 
     - The Icon on the website tab I have used [Favicon](https://favicon.io/emoji-favicons/sun/)
 
-    - For the GPS locations I have used Google maps.
+    - For the GPS locations I have used [Google maps](https://www.google.com/maps/).
     
     - The screenshots supplied to decorate the Readme file I have used [Gyazo](https://gyazo.com/)
     
