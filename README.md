@@ -2,7 +2,7 @@
 
 Welcome to Algarve,
 
-This is the Algarve website, where you can explore the diferent beaches and types of activities you may desire to explore.
+This website is about Algarve, where you can explore the diferent beaches and types of activities you may desire to explore.
 
 Also you can request more info the same ones or other that you might have hear of in Algarve.
 Users of this website will acquire knowledge about beaches and activies, from temperatues to locations.
