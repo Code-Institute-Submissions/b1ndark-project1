@@ -63,7 +63,8 @@ ___
 
 ## Testing
 
-- I have tested that this website works on diferent types of browsers like Chrome, Safari and Firefox.
+- I have tested the website and it works on diferent types of browsers like Chrome, Safari and Firefox.
+- I have also tested and work on different mobile phone brands such Iphones, Realmes, Huaweis, Samsungs and also Xiaomis.
 - The project is responsive as I have tested it on diferent types of screen sizes using devtools.
 - All content of every page is readable and easy to understand.
 - All locations presented on the website work, once you click them it will open a new tab.
