@@ -78,6 +78,10 @@ ___
     - Initialy fixed it by using z-index, but as it was bad practice I found a way around it and removed the z-index.
 - Discovered that there was a bug with smaller screens where the Home button on the nav bar would go under the under the Sign Up button.
     - Reduced the letter-spacing to 1px.
+- Issue with scroll bar on horizontal
+    - fixed it is by reducing px on the images width from 375px to 360px
+- The footer on the home page was showing in front of Algarve info
+    - fixed it by putting the Algarve info inside of DIVs
 <br>
 ___ 
 
