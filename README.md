@@ -1,11 +1,12 @@
 # ALGARVE
 
-Welcome to Algarve,
 
-This website is about Algarve, where you can explore the diferent beaches and types of activities you may desire to explore.
-
-Also you can request more info the same ones or other that you might have hear of in Algarve.
-Users of this website will acquire knowledge about beaches and activies, from temperatues to locations.
+## This website is about Algarve, 
+<p>The website is targeted for everyone, from young to elderly, from couples to families, there’s something for everybody’s taste :).
+<p>You can explore the different beaches and types of activities you may desire to explore and feel the thrill.
+<p>Algarve is calling for you, expect adventures and wonderful memories with your love ones.
+<p>Users of this website will acquire knowledge about beaches and activies, from temperatues to locations.
+<p>Also in the Sign up page you can request more info about the same beaches/activities or others that you might have hear of in Algarve.
 <br>
 
 ![image](assets/images/readme-images/am-i-responsive.png)
@@ -136,6 +137,9 @@ ___
        - algarvesunset - photo of sunset in Algarve - by ddzphoto(https://pixabay.com/photos/portugal-beach-sunset-sea-scenic-2392312/)
        - zoomarine - photo of Zoomarine which is located at Albufeira in Algarve - by Craig Lovelidge(https://unsplash.com/photos/5iiI5wVXY8M)
        - skydiving - photo of a people skydiving and you can see the Algarve International Circuit in the background where Formula 1 and moto GP occurs - by Kamil Pietrzak(https://unsplash.com/photos/G0FsO2Ca8nQ)
+    
+    - To convert the photos I have used:
+        - [Cloud Convert](https://cloudconvert.com/)
 
     - The Icon on the website tab I have used [Favicon](https://favicon.io/emoji-favicons/sun/)
 
