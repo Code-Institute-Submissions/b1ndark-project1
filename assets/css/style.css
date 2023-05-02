@@ -335,6 +335,14 @@ footer {
         font-size: 13px;
     }
 
+    .algarve-where {
+        margin-bottom: 0;
+    }
+
+    #sunset-outer {
+        margin-bottom: 0;
+    }
+
     footer {
         margin-top: 0;
         font-size: smaller;
