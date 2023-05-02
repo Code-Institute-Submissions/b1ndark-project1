@@ -254,10 +254,18 @@ footer {
 /* confirmation page */
 
 .confirmation {
+    background: url(../images/benagilcaveconfirmation.jpg) no-repeat center center;
+    height: 1000px;
+    width: 100%;
+    padding-top: 0;
+}
+
+
+.confirmation h2 {
+    color: #fff;
     padding-top: 300px;
     text-align: center;
 }
-
 
 /* Media queries */
 

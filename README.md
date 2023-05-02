@@ -127,16 +127,18 @@ ___
        - [PicJumbo](https://picjumbo.com)
        - [Pixabay](https://pixabay.com)
        - [Unsplash](https://unsplash.com)
+       - [Pexels](https://www.pexels.com)
 
     - Photos Authors and where to find them:
-       - camilobeach - photo of Camilo beach - by Lukas Talab(https://picjumbo.com/couple-on-a-beach-enjoying-sunrise/)
+       - camilobeach - photo of Camilo beach - by Lukas [Talab](https://picjumbo.com/couple-on-a-beach-enjoying-sunrise/)
        - rochabreach - photo of Rocha beach in Portimao - by me
        - carvalhobeach - photo of Carvalho beach near Benagil - by me
-       - benagilcave - photo of a beach inside a cave in Benagil - by Julius_Silver(https://pixabay.com/photos/portugal-algarve-benagil-selfie-3029665/)
-       - cavetour - photo of cave tours in Algarve - by Max Zed(https://unsplash.com/photos/RhCcwI570bE)
-       - algarvesunset - photo of sunset in Algarve - by ddzphoto(https://pixabay.com/photos/portugal-beach-sunset-sea-scenic-2392312/)
-       - zoomarine - photo of Zoomarine which is located at Albufeira in Algarve - by Craig Lovelidge(https://unsplash.com/photos/5iiI5wVXY8M)
-       - skydiving - photo of a people skydiving and you can see the Algarve International Circuit in the background where Formula 1 and moto GP occurs - by Kamil Pietrzak(https://unsplash.com/photos/G0FsO2Ca8nQ)
+       - benagilcave - photo of a beach inside a cave in Benagil - by [Julius_Silver](https://pixabay.com/photos/portugal-algarve-benagil-selfie-3029665/)
+       - cavetour - photo of cave tours in Algarve - by [Max Zed](https://unsplash.com/photos/RhCcwI570bE)
+       - algarvesunset - photo of sunset in Algarve - by [ddzphoto](https://pixabay.com/photos/portugal-beach-sunset-sea-scenic-2392312/)
+       - zoomarine - photo of Zoomarine which is located at Albufeira in Algarve - by [Craig Lovelidge](https://unsplash.com/photos/5iiI5wVXY8M)
+       - skydiving - photo of a people skydiving and you can see the Algarve International Circuit in the background where Formula 1 and moto GP occurs - by [Kamil Pietrzak](https://unsplash.com/photos/G0FsO2Ca8nQ)
+       - benagilcaveconfirmation - photo of benagil - by [Jo Kassis](https://www.pexels.com/photo/people-near-a-body-of-water-under-a-cave-hole-5339442/)
     
     - To convert the photos I have used:
         - [Cloud Convert](https://cloudconvert.com/)
