@@ -251,6 +251,14 @@ footer {
     color: #fff;
 }
 
+/* confirmation page */
+
+.confirmation {
+    padding-top: 300px;
+    text-align: center;
+}
+
+
 /* Media queries */
 
 /* for large screens sizes from 1200px wide and down */
