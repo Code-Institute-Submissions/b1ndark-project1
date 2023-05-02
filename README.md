@@ -8,7 +8,7 @@ Also you can request more info the same ones or other that you might have hear o
 Users of this website will acquire knowledge about beaches and activies, from temperatues to locations.
 <br>
 
-![image](assets/images/am-i-responsive.png)
+![image](assets/images/readme-images/am-i-responsive.png)
 
 [My website on Am I Responsive](https://ui.dev/amiresponsive?url=https://b1ndark.github.io/project1/)
 
@@ -20,7 +20,7 @@ Users of this website will acquire knowledge about beaches and activies, from te
     - Featured at the top of the page, the navigation shows the Algarve name on the left corner, Algarve logo that links to the top of the home page.
     - To the right are other navigation links: Beaches, Activities and Sign Up which link to diferente pages.
 
-![image](assets/images/navigation.png)
+![image](assets/images/readme-images/navigation.png)
 <br>
 ___ 
 
@@ -29,7 +29,7 @@ ___
     - The header presents a photo of Benagil cave located in Algarve
     - The header explains to the user what Algarve is and where is it.
 
-![image](assets/images/header.png)
+![image](assets/images/readme-images/header.png)
 <br>
 ___ 
 
@@ -38,7 +38,7 @@ ___
     - The Beaches page presents examples of beaches in the coast of Algarve.
     - Also presents info about them like their water temps and locations.
 
-![image](assets/images/beaches.png)
+![image](assets/images/readme-images/beaches.png)
 <br>
 ___ 
 
@@ -47,7 +47,7 @@ ___
     - The Activites page presents examples of activities that can be done in Algarve.
     - ALso presents info about them and their locations.
 
-![image](assets/images/activities.png)
+![image](assets/images/readme-images/activities.png)
 <br>
 ___ 
 
@@ -56,7 +56,7 @@ ___
     - The Sign Up page allows the user to contact to obtain more info regarding the content presented.
     - Also other info on other beaches or type of activites that we might be able to help with.
 
-![image](assets/images/signup.png)
+![image](assets/images/readme-images/signup.png)
 <br>
 <br>
 ___ 
