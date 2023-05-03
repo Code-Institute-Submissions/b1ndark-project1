@@ -255,16 +255,19 @@ footer {
 
 .confirmation {
     background: url(../images/benagilcaveconfirmation.jpg) no-repeat center center;
-    height: 1000px;
+    height: 1200px;
     width: 100%;
     padding-top: 0;
 }
 
-
-.confirmation h2 {
+.confirmation h3{
     color: #fff;
-    padding-top: 300px;
+    font-size: 200%;
     text-align: center;
+}
+
+.confirmation-h3-1 {
+    padding-top: 400px;
 }
 
 /* Media queries */
