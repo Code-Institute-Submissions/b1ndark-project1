@@ -80,7 +80,7 @@ h2 {
     margin-top: 75px;
 }
 
-/* algarve where */
+/* algarve where and what */
 
 .algarve-where {
     height: 1200px;
@@ -92,6 +92,10 @@ h2 {
     flex-direction: column;
     align-content: center;
     justify-content: space-between;
+}
+
+.algarve-what {
+    margin-top: 100px;
 }
 
 /* footer */
