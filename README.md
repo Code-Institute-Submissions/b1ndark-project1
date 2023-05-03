@@ -96,6 +96,7 @@ ___
     - I can confirm that the fonts and colors chosen are easy to read and also Lighthouse performed really good
 <br>
 # Lighthouse screenshots
+
 ![image](assets/images/readme-images/lighthouse-performance/homeperformance.png)
 ![image](assets/images/readme-images/lighthouse-performance/beachesperformance.png)
 ![image](assets/images/readme-images/lighthouse-performance/activitiesperformance.png)
