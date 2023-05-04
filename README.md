@@ -5,8 +5,8 @@
 <p>The website is targeted for everyone, from young to elderly, from couples to families, there’s something for everybody’s taste :).
 <p>You can explore the different beaches and types of activities you may desire to explore and feel the thrill.
 <p>Algarve is calling for you, expect adventures and wonderful memories with your love ones.
-<p>Users of this website will acquire knowledge about beaches and activies, from temperatues to locations.
-<p>Also in the Sign up page you can request more info about the same beaches/activities or others that you might have hear of in Algarve.
+<p>Users of this website will acquire knowledge about beaches and activities, from temperatures to locations.
+<p>Also, in the Sign up page you can request more info about the same beaches/activities or others that you might have hear of in Algarve.
 <br>
 
 ![image](assets/images/readme-images/am-i-responsive.png)
