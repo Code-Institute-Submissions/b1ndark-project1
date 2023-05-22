@@ -87,8 +87,14 @@ ___
 
 - HTML
     - No errors were found when tested with W3C vallidator
+        - [Home page](assets/images/readme-images/w3c-validator/homevalidator.png)
+        - [Beaches page](assets/images/readme-images/w3c-validator/beachesvalidator.png)
+        - [Activities page](assets/images/readme-images/w3c-validator/activitiesvalidator.png)
+        - [Sign Up page](assets/images/readme-images/w3c-validator/signupvalidator.png)
+        - [Confirmation page](assets/images/readme-images/w3c-validator/confirmationvalidator.png)
 - CSS
     - No errors were found when tested with Jigsaw validator
+        - [CSS](assets/images/readme-images/w3c-validator/cssvalidator.png)
 - Accessibility
     - I can confirm that the fonts and colors chosen are easy to read and also Lighthouse performed really good
 <br>
