@@ -16,50 +16,47 @@
 ## Features
 <br>
 
-- ### Navigation
+- ### [Navigation](assets/images/readme-images/navigation.png)
 
     - Featured at the top of the page, the navigation shows the Algarve name on the left corner, Algarve logo that links to the top of the home page.
     - To the right are other navigation links: Beaches, Activities and Sign Up which link to diferente pages.
 
-![image](assets/images/readme-images/navigation.png)
 <br>
-___ 
 
-- ### The Header
+- ### [The Header](assets/images/readme-images/header.png)
 
     - The header presents a photo of Benagil cave located in Algarve
     - The header explains to the user what Algarve is and where is it.
 
-![image](assets/images/readme-images/header.png)
 <br>
-___ 
 
-- ### Beaches
+- ### [Beaches](assets/images/readme-images/beaches.png)
 
     - The Beaches page presents examples of beaches in the coast of Algarve.
     - Also presents info about them like their water temps and locations.
 
-![image](assets/images/readme-images/beaches.png)
 <br>
-___ 
 
-- ### Activities
+- ### [Activities](assets/images/readme-images/activities.png)
 
     - The Activites page presents examples of activities that can be done in Algarve.
     - ALso presents info about them and their locations.
 
-![image](assets/images/readme-images/activities.png)
 <br>
-___ 
 
-- ### Sign Up
+- ### [Sign Up](assets/images/readme-images/signup.png)
 
     - The Sign Up page allows the user to contact to obtain more info regarding the content presented.
     - Also other info on other beaches or type of activites that we might be able to help with.
 
-![image](assets/images/readme-images/signup.png)
 <br>
+
+- ### [Confirmation](assets/images/readme-images/confirmation.jpg)
+
+    - This page is to let the user know that the application has been received
+
 <br>
+
 ___ 
 
 ## Testing
@@ -95,12 +92,19 @@ ___
 - Accessibility
     - I can confirm that the fonts and colors chosen are easy to read and also Lighthouse performed really good
 <br>
+
 # Lighthouse screenshots
 
-![image](assets/images/readme-images/lighthouse-performance/homeperformance.png)
-![image](assets/images/readme-images/lighthouse-performance/beachesperformance.png)
-![image](assets/images/readme-images/lighthouse-performance/activitiesperformance.png)
-![image](assets/images/readme-images/lighthouse-performance/signupperformance.png)
+- [Home page](assets/images/readme-images/lighthouse-performance/homeperformance.png)
+
+- [Beaches page](assets/images/readme-images/lighthouse-performance/beachesperformance.png)
+
+- [Activities page](assets/images/readme-images/lighthouse-performance/activitiesperformance.png)
+
+- [Sign Up page](assets/images/readme-images/lighthouse-performance/signupperformance.png)
+
+- [Confirmation page](assets/images/readme-images/lighthouse-performance/confirmationperformance.png)
+
 <br>
 ___ 
 
