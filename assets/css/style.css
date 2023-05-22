@@ -262,6 +262,20 @@ footer {
     height: 1200px;
     width: 100%;
     padding-top: 0;
+    display: flex;
+}
+
+.refresh  {
+    color: #fff;
+    background-color: rgba(44, 44, 44, 0.6);
+    max-width: 550px;
+    padding: 30px;
+    border-radius: 30px;
+    margin: auto;
+}
+
+.refresh h3 {
+    padding-top: 0px;
 }
 
 .confirmation h3 {
