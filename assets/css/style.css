@@ -288,8 +288,16 @@ footer {
     padding-top: 400px;
 }
 
+/* 404 Error page */
+
 .container {
     text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.container h2 {
+    text-transform: capitalize;
 }
 
 /* Media queries */
