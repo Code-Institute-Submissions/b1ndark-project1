@@ -288,6 +288,10 @@ footer {
     padding-top: 400px;
 }
 
+.container {
+    text-align: center;
+}
+
 /* Media queries */
 
 /* for large screens sizes from 1200px wide and down */
