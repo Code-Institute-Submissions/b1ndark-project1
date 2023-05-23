@@ -387,6 +387,10 @@ footer {
         margin-top: 0;
         font-size: smaller;
     }
+
+    .page-title-error {
+        padding-top: 50px;
+    }
 }
 
 /* for extra small screen sizes from 335px wide and down */
