@@ -290,6 +290,13 @@ footer {
 
 /* 404 Error page */
 
+.page-title-error {
+    height: 100px;
+    padding-top: 150px;
+    text-align: center;
+    font-size: 200%;
+}
+
 .container {
     text-align: center;
     display: flex;
