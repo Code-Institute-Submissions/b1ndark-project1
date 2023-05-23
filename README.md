@@ -99,7 +99,7 @@ ___
     - I can confirm that the fonts and colors chosen are easy to read and also Lighthouse performed really good
 <br>
 
-# Lighthouse screenshots
+## Lighthouse screenshots
 
 - [Home page](assets/images/readme-images/lighthouse-performance/homeperformance.png)
 
