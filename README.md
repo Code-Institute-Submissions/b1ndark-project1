@@ -83,6 +83,23 @@ ___
 <br>
 ___ 
 
+## Problems
+
+- I did have a problem with website running on Chrome, it was accused of being unsafe([Screenshot](assets/images/readme-images/bug/deceptivesite.png)), I tried it on different browsers such as Firefox, Safari, Microsoft Edge and they all worked fine with no issues.
+- I couldn't find any issues with any part of the code so I contacted google regarding the issue and requested them to verify the website by following this [steps](https://support.google.com/webmasters/answer/9008080?hl=en#cms&zippy=%2Csites-that-use-a-website-hosting-platform-wordpress-shopify-wix-etc). After being verified, it was considered safe again([Screenshot](assets/images/readme-images/bug/googlesafe.webp)). 
+<br>
+
+## Wireframes
+
+- Created for mobile devices and desktops
+    - [Home page](assets/images/readme-images/wireframe/homewireframepcandmobile.webp)
+    - [Beaches page](assets/images/readme-images/wireframe/beacheswireframepcandmobile.webp)
+    - [Activities page](assets/images/readme-images/wireframe/activitieswireframepcandmobile.webp)
+    - [Sign Up](assets/images/readme-images/wireframe/signupwireframepcandmobile.webp)
+    - [Confirmation page](assets/images/readme-images/wireframe/confirmationwireframesmobile.webp)
+
+___
+
 ## Validator Testing
 
 - HTML
@@ -92,6 +109,7 @@ ___
         - [Activities page](assets/images/readme-images/w3c-validator/activitiesvalidator.png)
         - [Sign Up page](assets/images/readme-images/w3c-validator/signupvalidator.png)
         - [Confirmation page](assets/images/readme-images/w3c-validator/confirmationvalidator.png)
+        - [404 Error page](assets/images/readme-images/w3c-validator/404errorpagevalidator.png)
 - CSS
     - No errors were found when tested with Jigsaw validator
         - [CSS](assets/images/readme-images/w3c-validator/cssvalidator.png)
