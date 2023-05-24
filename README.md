@@ -89,6 +89,8 @@ ___
 - I couldn't find any issues with any part of the code so I contacted google regarding the issue and requested them to verify the website by following this [steps](https://support.google.com/webmasters/answer/9008080?hl=en#cms&zippy=%2Csites-that-use-a-website-hosting-platform-wordpress-shopify-wix-etc). After being verified, it was considered safe again([Screenshot](assets/images/readme-images/bug/googlesafe.webp)). 
 <br>
 
+___
+
 ## Wireframes
 
 - Created for mobile devices and desktops
