@@ -10,14 +10,13 @@
 
 ![image](assets/images/readme-images/am-i-responsive.png)
 
-[My website on Am I Responsive](https://ui.dev/amiresponsive?url=https://b1ndark.github.io/project1/)
-
+[My website on Am I Responsive](https://ui.dev/amiresponsive?url=https://b1ndark.github.io/project1/)  
 ___
 
 ## __Content__
 
 - [User Experience](#user-experience)
-- Design
+- [Design](#design)
     - [Wireframes](#wireframes)
     - [Features](#features)
         - [Navigation](#navigation)
@@ -28,15 +27,17 @@ ___
         - [Confirmation Page](#confirmation-page)
         - [404 Error Page](#404-error-page)
     - [Accessibility](#accessibility)
+
+- [Programs and Tools](#programs-and-tools-used)
 - [Languages](#languages-used-and-its-tests)
 - [Lighthouse](#lighthouse-screenshots)
 - [Testing](#testing)
-    - [Problems](#problems)
     - [Bugs and solutions](#bugs)
+    - [Problems](#problems)
+
 - [Credits](#credits)
     - [Content](#content-1)
-    - [Media](#media)
-
+    - [Media](#media)  
 ___
 
 ## __User Experience__  
@@ -57,101 +58,12 @@ The website:
 - Sign up page, the user will be able to request information, when trying to submit the form while missing some details, the user will be notified.
     - once the form submitted the user will be notified of it.
 - At the bottom of each page(footer) the user will have access to contact details and social networks.
-
 ___
 
-## __Features__
+## __Design__  
 
 
-- ### Navigation
-
-    - Featured at the top of the page, the navigation shows the Algarve name on the left corner, Algarve logo that links to the top of the home page.
-    - To the right are other navigation links: Beaches, Activities and Sign Up which link to diferente pages.  
-
-    ![image](assets/images/readme-images/navigation.png)
-<br>
-
-- ### Home Page
-
-    - The home page presents a photo of Benagil cave located in Algarve
-    - The home page presents a brief introduction to the user what Algarve is and where is it.  
-
-    ![image](assets/images/readme-images/homepage.png)
-<br>
-
-- ### Beaches Page
-
-    - The Beaches page presents examples of beaches in the coast of Algarve.
-    - Also presents info about them like their water temps and locations.  
-
-    ![image](assets/images/readme-images/beaches.png)
-<br>
-
-- ### Activities Page
-
-    - The Activites page presents examples of activities that can be done in Algarve.
-    - ALso presents info about them and their locations.  
-
-    ![image](assets/images/readme-images/activities.png)
-<br>
-
-- ### Sign Up Page
-
-    - The Sign Up page allows the user to contact to obtain more info regarding the content presented.
-    - Also other info on other beaches or type of activites that we might be able to help with.  
-
-    ![image](assets/images/readme-images/signup.png)
-<br>
-
-- ### Confirmation Page
-
-    - This page is to let the user know that the application has been received.  
-
-    ![image](assets/images/readme-images/confirmation.jpg)
-<br>
-
-- ### 404 Error page
-
-    - This is a 404 Error page, just stating that the page wasn't found and gives the user a choice of going back to the Home page.  
-
-    ![image](assets/images/readme-images/404errorpage.png)
-<br>
-
-___ 
-
-## Testing
-
-- I have tested the website and it works on diferent types of browsers like Chrome, Safari and Firefox.
-- I have also tested and work on different mobile phone brands such Iphones, Realmes, Huaweis, Samsungs and also Xiaomis.
-- The project is responsive as I have tested it on diferent types of screen sizes using devtools.
-- All content of every page is readable and easy to understand.
-- All locations presented on the website work, once you click them it will open a new tab.
-- The form in the Sign Up page works as it should, email field only accepts emails and submit button works.
-<br>
-___ 
-
-## Bugs
-
-- Fixed issue with header where the form was overlapping the header.
-    - Initialy fixed it by using z-index, but as it was bad practice I found a way around it and removed the z-index.
-- Discovered that there was a bug with smaller screens where the Home button on the nav bar would go under the under the Sign Up button.
-    - Reduced the letter-spacing to 1px.
-- Issue with scroll bar on horizontal
-    - fixed it is by reducing px on the images width from 375px to 360px
-- The footer on the home page was showing in front of Algarve info
-    - fixed it by putting the Algarve info inside of DIVs
-<br>
-___ 
-
-## Problems
-
-- I did have a problem with website running on Chrome, it was accused of being unsafe([Screenshot](assets/images/readme-images/bug/deceptivesite.png)), I tried it on different browsers such as Firefox, Safari, Microsoft Edge and they all worked fine with no issues.
-- I couldn't find any issues with any part of the code so I contacted google regarding the issue and requested them to verify the website by following this [steps](https://support.google.com/webmasters/answer/9008080?hl=en#cms&zippy=%2Csites-that-use-a-website-hosting-platform-wordpress-shopify-wix-etc). After being verified, it was considered safe again([Screenshot](assets/images/readme-images/bug/googlesafe.webp)). 
-<br>
-
-___
-
-## Wireframes
+### Wireframes
 
 - Created for mobile devices and desktops
     - Home Page  
@@ -173,9 +85,81 @@ ___
     - Confirmation Page  
     ![image](assets/images/readme-images/wireframe/confirmationwireframesmobile.webp)  
     <br>
-
 ___
 
+### Features
+
+
+- #### Navigation
+
+    - Featured at the top of the page, the navigation shows the Algarve name on the left corner, Algarve logo that links to the top of the home page.
+    - To the right are other navigation links: Beaches, Activities and Sign Up which link to diferente pages.  
+
+    ![image](assets/images/readme-images/navigation.png)
+<br>
+
+- #### Home Page
+
+    - The home page presents a photo of Benagil cave located in Algarve
+    - The home page presents a brief introduction to the user what Algarve is and where is it.  
+
+    ![image](assets/images/readme-images/homepage.png)
+<br>
+
+- #### Beaches Page
+
+    - The Beaches page presents examples of beaches in the coast of Algarve.
+    - Also presents info about them like their water temps and locations.  
+
+    ![image](assets/images/readme-images/beaches.png)
+<br>
+
+- #### Activities Page
+
+    - The Activites page presents examples of activities that can be done in Algarve.
+    - ALso presents info about them and their locations.  
+
+    ![image](assets/images/readme-images/activities.png)
+<br>
+
+- #### Sign Up Page
+
+    - The Sign Up page allows the user to contact to obtain more info regarding the content presented.
+    - Also other info on other beaches or type of activites that we might be able to help with.  
+
+    ![image](assets/images/readme-images/signup.png)
+<br>
+
+- #### Confirmation Page
+
+    - This page is to let the user know that the application has been received.  
+
+    ![image](assets/images/readme-images/confirmation.jpg)
+<br>
+
+- #### 404 Error page
+
+    - This is a 404 Error page, just stating that the page wasn't found and gives the user a choice of going back to the Home page.  
+
+    ![image](assets/images/readme-images/404errorpage.png)  
+___ 
+
+## Programs and tools used
+
+- [Codeanywhere](https://app.codeanywhere.com/) - To create the website
+- [Github](https://github.com/) - Where the website is stored
+- [Google Fonts](https://fonts.google.com/) - For the fonts used in the website
+- [Uiward](https://uizard.io/) - To create wireframes
+- [Favicon](https://favicon.io/) - To create favicon
+- [Am I Responsive?](https://ui.dev/amiresponsive) - To display the website on different websites
+- [Spell Check](https://chrome.google.com/webstore/detail/webpage-spell-check/mgdhaoimpabdhmacaclbbjddhngchjik/related) - To check spelling
+- [Google Tools](https://developer.chrome.com/docs/devtools/) - to check website stylyling and responsiveness
+- [Cloud Convert](https://cloudconvert.com/) - To convert the images to different files
+- [Gyazo](https://gyazo.com/) - To take Screenshots
+- [Google maps](https://www.google.com/maps/) - To provide locations
+- [Font Awesome](https://fontawesome.com/) - To display icons
+___
+  
 ## Languages used and its tests
 
 - HTML  
@@ -235,8 +219,38 @@ ___
         - Confirmation Page  
         ![image](assets/images/readme-images/lighthouse-performance/confirmationperformance.png)  
         <br>
-
 ___ 
+
+## Testing
+
+- I have tested the website and it works on diferent types of browsers like Chrome, Safari and Firefox.
+- I have also tested and work on different mobile phone brands such Iphones, Realmes, Huaweis, Samsungs and also Xiaomis.
+- The project is responsive as I have tested it on diferent types of screen sizes using devtools.
+- All content of every page is readable and easy to understand.
+- All locations presented on the website work, once you click them it will open a new tab.
+- The form in the Sign Up page works as it should, email field only accepts emails and submit button works.
+<br>
+___ 
+
+## Bugs
+
+- Fixed issue with header where the form was overlapping the header.
+    - Initialy fixed it by using z-index, but as it was bad practice I found a way around it and removed the z-index.
+- Discovered that there was a bug with smaller screens where the Home button on the nav bar would go under the under the Sign Up button.
+    - Reduced the letter-spacing to 1px.
+- Issue with scroll bar on horizontal
+    - fixed it is by reducing px on the images width from 375px to 360px
+- The footer on the home page was showing in front of Algarve info
+    - fixed it by putting the Algarve info inside of DIVs
+<br>
+___ 
+
+## Problems
+
+- I did have a problem with website running on Chrome, it was accused of being unsafe([Screenshot](assets/images/readme-images/bug/deceptivesite.png)), I tried it on different browsers such as Firefox, Safari, Microsoft Edge and they all worked fine with no issues.
+- I couldn't find any issues with any part of the code so I contacted google regarding the issue and requested them to verify the website by following this [steps](https://support.google.com/webmasters/answer/9008080?hl=en#cms&zippy=%2Csites-that-use-a-website-hosting-platform-wordpress-shopify-wix-etc). After being verified, it was considered safe again([Screenshot](assets/images/readme-images/bug/googlesafe.webp)). 
+<br>
+___
 
 ## Deployment
 
@@ -280,17 +294,9 @@ ___
        - zoomarine - photo of Zoomarine which is located at Albufeira in Algarve - by [Craig Lovelidge](https://unsplash.com/photos/5iiI5wVXY8M)
        - skydiving - photo of a people skydiving and you can see the Algarve International Circuit in the background where Formula 1 and moto GP occurs - by [Kamil Pietrzak](https://unsplash.com/photos/G0FsO2Ca8nQ)
        - benagilcaveconfirmation - photo of benagil - by [Jo Kassis](https://www.pexels.com/photo/people-near-a-body-of-water-under-a-cave-hole-5339442/)
-       - 404error - photo of a sad face - by [OpenClipart-Vectors](https://pixabay.com/vectors/comic-characters-depressed-emotion-2026645/)
-    
-    - To convert the photos I have used:
-        - [Cloud Convert](https://cloudconvert.com/)
+       - 404error - photo of a sad face - by [OpenClipart-Vectors](https://pixabay.com/vectors/comic-characters-depressed-emotion-2026645/)  
 
-    - The Icon on the website tab I have used [Favicon](https://favicon.io/emoji-favicons/sun/)
-
-    - For the GPS locations I have used [Google maps](https://www.google.com/maps/).
-    
-    - The screenshots supplied to decorate the Readme file I have used [Gyazo](https://gyazo.com/)
-    
+    - The Favicon used - [Sun](https://favicon.io/emoji-favicons/sun/)  
     - Footer social network links from:
         - [Facebook](https://www.facebook.com/)
         - [Instagram](https://www.instagram.com/)
