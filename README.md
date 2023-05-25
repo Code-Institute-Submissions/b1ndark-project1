@@ -1,7 +1,6 @@
-# __ALGARVE__  
+# __ALGARVE__
 
-
-## This website is about Algarve,  
+## This website is about Algarve,
 <p>The website is targeted for everyone, from young to elderly, from couples to families, there’s something for everybody’s taste :).
 <p>You can explore the different beaches and types of activities you may desire to explore and feel the thrill.
 <p>Algarve is calling for you, expect adventures and wonderful memories with your love ones.
@@ -43,8 +42,8 @@ ___
 ## __User Experience__  
 
 Visitors:
-- The users will adquire knowledge of what they might be interested in, either beaches or activities.
-- They will be able to request info on the content that is either being displayed or that they maight have heard about(beaches or activities)
+- The users will acquire knowledge of what they might be interested in, either beaches or activities.
+- They will be able to request info on the content that is either being displayed or that they might have heard about (beaches or activities).
 - 
 
 Goals:
@@ -53,10 +52,10 @@ Goals:
 
 The website:
 - Starting at the top, the navigate bar is simple, easy to use and follows the user as the website is being scrolled down.
-- Within the nav bar the user will be able to access diferent pages, Home, Beaches, Activities and Sign Up
+- Within the nav bar the user will be able to access different pages, Home, Beaches, Activities and Sign Up
 - In each page there will be display information to the user
 - Sign up page, the user will be able to request information, when trying to submit the form while missing some details, the user will be notified.
-    - once the form submited the user will be notified of it.
+    - once the form submitted the user will be notified of it.
 - At the bottom of each page(footer) the user will have access to contact details and social networks.
 
 ___
@@ -109,6 +108,7 @@ ___
     - This page is to let the user know that the application has been received.  
 
     ![image](assets/images/readme-images/confirmation.jpg)
+<br>
 
 - ### 404 Error page
 
@@ -156,19 +156,23 @@ ___
 - Created for mobile devices and desktops
     - Home Page  
     ![image](assets/images/readme-images/wireframe/homewireframepcandmobile.webp)  
-<br>
+    <br>
+
     - Beaches Page  
     ![image](assets/images/readme-images/wireframe/beacheswireframepcandmobile.webp)  
-<br>
+    <br>
+
     - Activities Page  
     ![image](assets/images/readme-images/wireframe/activitieswireframepcandmobile.webp)  
-<br>
+    <br>
+
     - Sign Up Page  
     ![image](assets/images/readme-images/wireframe/signupwireframepcandmobile.webp)  
-<br>
+    <br>
+
     - Confirmation Page  
     ![image](assets/images/readme-images/wireframe/confirmationwireframesmobile.webp)  
-<br>
+    <br>
 
 ___
 
@@ -179,21 +183,27 @@ ___
         - Home Page  
         ![image](assets/images/readme-images/w3c-validator/homevalidator.png)  
         <br>
+
         - Beaches Page  
         ![image](assets/images/readme-images/w3c-validator/beachesvalidator.png)  
         <br>
+
         - Activities Page  
         ![image](assets/images/readme-images/w3c-validator/activitiesvalidator.png)  
         <br>
+
         - Sign Up Page  
         ![image](assets/images/readme-images/w3c-validator/signupvalidator.png)  
         <br>
+
         - Confirmation Page  
         ![image](assets/images/readme-images/w3c-validator/confirmationvalidator.png)  
         <br>
+
         - 404 Error Page  
         ![image](assets/images/readme-images/w3c-validator/404errorpagevalidator.png)  
         <br>
+
 - CSS  
     - No errors were found when tested with Jigsaw validator  
         - CSS  
@@ -207,20 +217,25 @@ ___
     - I can confirm that the fonts and colors chosen are easy to read and also Lighthouse performed really good  
 
         - Home Page  
-![image](assets/images/readme-images/lighthouse-performance/homeperformance.png)  
-<br>
+        ![image](assets/images/readme-images/lighthouse-performance/homeperformance.png)  
+        <br>
+
         - Beaches Page  
-![image](assets/images/readme-images/lighthouse-performance/beachesperformance.png)  
-<br>
+        ![image](assets/images/readme-images/lighthouse-performance/beachesperformance.png)  
+        <br>
+
         - Activities Page  
-![image](assets/images/readme-images/lighthouse-performance/activitiesperformance.png)  
-<br>
+        ![image](assets/images/readme-images/lighthouse-performance/activitiesperformance.png)  
+        <br>
+
         - Sign Up Page  
-![image](assets/images/readme-images/lighthouse-performance/signupperformance.png)  
-<br>
+        ![image](assets/images/readme-images/lighthouse-performance/signupperformance.png)  
+        <br>
+
         - Confirmation Page  
-![image](assets/images/readme-images/lighthouse-performance/confirmationperformance.png)  
-<br>
+        ![image](assets/images/readme-images/lighthouse-performance/confirmationperformance.png)  
+        <br>
+
 ___ 
 
 ## Deployment
