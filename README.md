@@ -43,13 +43,13 @@ ___
 ## __User Experience__  
 
 Visitors:
+- User will be presented with a website that will help them with the next Algarve trip.
 - The users will acquire knowledge of what they might be interested in, either beaches or activities.
-- They will be able to request info on the content that is either being displayed or that they might have heard about (beaches or activities).
-- 
+- They will be able to request info on the content that is either being displayed or that they might have heard about (beaches or activities). 
 
 Goals:
-- 
-- Offer a diversity of different experiences
+- To inform the user with provided content.
+- To offer a diversity of different experiences
 
 The website:
 - Starting at the top, the navigate bar is simple, easy to use and follows the user as the website is being scrolled down.
@@ -57,7 +57,9 @@ The website:
 - In each page there will be display information to the user
 - Sign up page, the user will be able to request information, when trying to submit the form while missing some details, the user will be notified.
     - once the form submitted the user will be notified of it.
-- At the bottom of each page(footer) the user will have access to contact details and social networks.
+- At the bottom of each page (footer) the user will have access to contact details and social networks.
+
+[Back to the top](#algarve)
 ___
 
 ## __Design__  
@@ -85,6 +87,8 @@ ___
     - Confirmation Page  
     ![image](assets/images/readme-images/wireframe/confirmationwireframesmobile.webp)  
     <br>
+
+[Back to the top](#algarve)
 ___
 
 ### Features
@@ -92,7 +96,7 @@ ___
 
 - #### Navigation
 
-    - Featured at the top of the page, the navigation shows the Algarve name on the left corner, Algarve logo that links to the top of the home page.
+    - Featured at the top of the page is the navigation shows the Algarve logo on the left corner, Algarve logo that links to the top of the home page.
     - To the right are other navigation links: Beaches, Activities and Sign Up which link to diferente pages.  
 
     ![image](assets/images/readme-images/navigation.png)
@@ -142,6 +146,8 @@ ___
     - This is a 404 Error page, just stating that the page wasn't found and gives the user a choice of going back to the Home page.  
 
     ![image](assets/images/readme-images/404errorpage.png)  
+
+[Back to the top](#algarve)
 ___ 
 
 ## Programs and tools used
@@ -158,6 +164,8 @@ ___
 - [Gyazo](https://gyazo.com/) - To take Screenshots
 - [Google maps](https://www.google.com/maps/) - To provide locations
 - [Font Awesome](https://fontawesome.com/) - To display icons
+
+[Back to the top](#algarve)
 ___
   
 ## Languages used and its tests
@@ -193,7 +201,8 @@ ___
         - CSS  
         ![image](assets/images/readme-images/w3c-validator/cssvalidator.png)  
 
-<br>
+[Back to the top](#algarve)
+___
 
 ## Lighthouse screenshots
 
@@ -219,6 +228,8 @@ ___
         - Confirmation Page  
         ![image](assets/images/readme-images/lighthouse-performance/confirmationperformance.png)  
         <br>
+
+[Back to the top](#algarve)
 ___ 
 
 ## Testing
@@ -230,6 +241,8 @@ ___
 - All locations presented on the website work, once you click them it will open a new tab.
 - The form in the Sign Up page works as it should, email field only accepts emails and submit button works.
 <br>
+
+[Back to the top](#algarve)
 ___ 
 
 ## Bugs
@@ -243,13 +256,17 @@ ___
 - The footer on the home page was showing in front of Algarve info
     - fixed it by putting the Algarve info inside of DIVs
 <br>
+
+[Back to the top](#algarve)
 ___ 
 
 ## Problems
 
 - I did have a problem with website running on Chrome, it was accused of being unsafe([Screenshot](assets/images/readme-images/bug/deceptivesite.png)), I tried it on different browsers such as Firefox, Safari, Microsoft Edge and they all worked fine with no issues.
-- I couldn't find any issues with any part of the code so I contacted google regarding the issue and requested them to verify the website by following this [steps](https://support.google.com/webmasters/answer/9008080?hl=en#cms&zippy=%2Csites-that-use-a-website-hosting-platform-wordpress-shopify-wix-etc). After being verified, it was considered safe again([Screenshot](assets/images/readme-images/bug/googlesafe.webp)). 
+- I couldn't find any issues with any part of the code so I contacted google regarding the issue and requested them to verify the website by following this [steps](https://support.google.com/webmasters/answer/9008080?hl=en#cms&zippy=%2Csites-that-use-a-website-hosting-platform-wordpress-shopify-wix-etc). After being verified, it was considered safe again ([Screenshot](assets/images/readme-images/bug/googlesafe.webp)). 
 <br>
+
+[Back to the top](#algarve)
 ___
 
 ## Deployment
@@ -260,6 +277,8 @@ ___
     - once the master branch has been selected, wait a a momment and it will provide a page link to the completed website.
 The live link can be found here - [My Website](https://b1ndark.github.io/project1/)
 <br>
+
+[Back to the top](#algarve)
 ___ 
 
 ## Credits
@@ -302,3 +321,5 @@ ___
         - [Instagram](https://www.instagram.com/)
         - [Twitter](https://twitter.com/)
         - [Youtube](https://www.youtube.com/)
+
+[Back to the top](#algarve)
