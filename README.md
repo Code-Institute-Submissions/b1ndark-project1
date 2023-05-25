@@ -13,48 +13,87 @@
 
 [My website on Am I Responsive](https://ui.dev/amiresponsive?url=https://b1ndark.github.io/project1/)
 
-## Features
-<br>
+___
 
-- ### [Navigation](assets/images/readme-images/navigation.png)
+## __Content__
+
+- User Experience
+- Design
+    - [Wireframes](#wireframes)
+    - [Features](#features)
+        - [Navigation](#navigation)
+        - [Home Page](#home-page)
+        - [Beaches Page](#beaches-page)
+        - [Activities Page](#activities-page)
+        - [Sign Up Page](#sign-up-page)
+        - [404 Error Page](#404-error-page)
+    - Accessibility
+- Tools and Programs Used
+    - Languages
+    -
+- Testing
+    - Problems
+    - Bugs and solutions
+- Credits
+    - Content
+    - Media
+
+___
+
+## __Features__
+
+
+- ### Navigation
 
     - Featured at the top of the page, the navigation shows the Algarve name on the left corner, Algarve logo that links to the top of the home page.
-    - To the right are other navigation links: Beaches, Activities and Sign Up which link to diferente pages.
+    - To the right are other navigation links: Beaches, Activities and Sign Up which link to diferente pages.  
 
+![image](assets/images/readme-images/navigation.png)
 <br>
 
-- ### [The Header](assets/images/readme-images/header.png)
+- ### Home Page
 
-    - The header presents a photo of Benagil cave located in Algarve
-    - The header explains to the user what Algarve is and where is it.
+    - The home page presents a photo of Benagil cave located in Algarve
+    - The home page presents a brief introduction to the user what Algarve is and where is it.  
 
+![image](assets/images/readme-images/homepage.png)
 <br>
 
-- ### [Beaches](assets/images/readme-images/beaches.png)
+- ### Beaches Page
 
     - The Beaches page presents examples of beaches in the coast of Algarve.
-    - Also presents info about them like their water temps and locations.
+    - Also presents info about them like their water temps and locations.  
 
+![image](assets/images/readme-images/beaches.png)
 <br>
 
-- ### [Activities](assets/images/readme-images/activities.png)
+- ### Activities Page
 
     - The Activites page presents examples of activities that can be done in Algarve.
-    - ALso presents info about them and their locations.
+    - ALso presents info about them and their locations.  
 
+![image](assets/images/readme-images/activities.png)
 <br>
 
-- ### [Sign Up](assets/images/readme-images/signup.png)
+- ### Sign Up Page
 
     - The Sign Up page allows the user to contact to obtain more info regarding the content presented.
-    - Also other info on other beaches or type of activites that we might be able to help with.
+    - Also other info on other beaches or type of activites that we might be able to help with.  
 
+![image](assets/images/readme-images/signup.png)
 <br>
 
-- ### [Confirmation](assets/images/readme-images/confirmation.jpg)
+- ### Confirmation Page
 
-    - This page is to let the user know that the application has been received
+    - This page is to let the user know that the application has been received.  
 
+![image](assets/images/readme-images/confirmation.jpg)
+
+- ### 404 Error page
+
+    - This is a 404 Error page, just stating that the page wasn't found and gives the user a choice of going back to the Home page.  
+
+![image](assets/images/readme-images/404errorpage.png)
 <br>
 
 ___ 
@@ -94,11 +133,16 @@ ___
 ## Wireframes
 
 - Created for mobile devices and desktops
-    - [Home page](assets/images/readme-images/wireframe/homewireframepcandmobile.webp)
-    - [Beaches page](assets/images/readme-images/wireframe/beacheswireframepcandmobile.webp)
-    - [Activities page](assets/images/readme-images/wireframe/activitieswireframepcandmobile.webp)
-    - [Sign Up](assets/images/readme-images/wireframe/signupwireframepcandmobile.webp)
-    - [Confirmation page](assets/images/readme-images/wireframe/confirmationwireframesmobile.webp)
+    - Home Page  
+![image](assets/images/readme-images/wireframe/homewireframepcandmobile.webp)
+    - Beaches Page  
+![image](assets/images/readme-images/wireframe/beacheswireframepcandmobile.webp)
+    - Activities Page  
+![image](assets/images/readme-images/wireframe/activitieswireframepcandmobile.webp)
+    - Sign Up Page  
+![Sign Up](assets/images/readme-images/wireframe/signupwireframepcandmobile.webp)
+    - Confirmation Page  
+![image](assets/images/readme-images/wireframe/confirmationwireframesmobile.webp)
 
 ___
 
