@@ -1,7 +1,7 @@
-# ALGARVE
+# __ALGARVE__  
 
 
-## This website is about Algarve, 
+## This website is about Algarve,  
 <p>The website is targeted for everyone, from young to elderly, from couples to families, there’s something for everybody’s taste :).
 <p>You can explore the different beaches and types of activities you may desire to explore and feel the thrill.
 <p>Algarve is calling for you, expect adventures and wonderful memories with your love ones.
@@ -17,7 +17,7 @@ ___
 
 ## __Content__
 
-- User Experience
+- [User Experience](#user-experience)
 - Design
     - [Wireframes](#wireframes)
     - [Features](#features)
@@ -26,17 +26,38 @@ ___
         - [Beaches Page](#beaches-page)
         - [Activities Page](#activities-page)
         - [Sign Up Page](#sign-up-page)
+        - [Confirmation Page](#confirmation-page)
         - [404 Error Page](#404-error-page)
-    - Accessibility
-- Tools and Programs Used
-    - Languages
-    -
-- Testing
-    - Problems
-    - Bugs and solutions
-- Credits
-    - Content
-    - Media
+    - [Accessibility](#accessibility)
+- [Languages](#languages-used-and-its-tests)
+- [Lighthouse](#lighthouse-screenshots)
+- [Testing](#testing)
+    - [Problems](#problems)
+    - [Bugs and solutions](#bugs)
+- [Credits](#credits)
+    - [Content](#content-1)
+    - [Media](#media)
+
+___
+
+## __User Experience__  
+
+Visitors:
+- The users will adquire knowledge of what they might be interested in, either beaches or activities.
+- They will be able to request info on the content that is either being displayed or that they maight have heard about(beaches or activities)
+- 
+
+Goals:
+- 
+- Offer a diversity of different experiences
+
+The website:
+- Starting at the top, the navigate bar is simple, easy to use and follows the user as the website is being scrolled down.
+- Within the nav bar the user will be able to access diferent pages, Home, Beaches, Activities and Sign Up
+- In each page there will be display information to the user
+- Sign up page, the user will be able to request information, when trying to submit the form while missing some details, the user will be notified.
+    - once the form submited the user will be notified of it.
+- At the bottom of each page(footer) the user will have access to contact details and social networks.
 
 ___
 
@@ -48,7 +69,7 @@ ___
     - Featured at the top of the page, the navigation shows the Algarve name on the left corner, Algarve logo that links to the top of the home page.
     - To the right are other navigation links: Beaches, Activities and Sign Up which link to diferente pages.  
 
-![image](assets/images/readme-images/navigation.png)
+    ![image](assets/images/readme-images/navigation.png)
 <br>
 
 - ### Home Page
@@ -56,7 +77,7 @@ ___
     - The home page presents a photo of Benagil cave located in Algarve
     - The home page presents a brief introduction to the user what Algarve is and where is it.  
 
-![image](assets/images/readme-images/homepage.png)
+    ![image](assets/images/readme-images/homepage.png)
 <br>
 
 - ### Beaches Page
@@ -64,7 +85,7 @@ ___
     - The Beaches page presents examples of beaches in the coast of Algarve.
     - Also presents info about them like their water temps and locations.  
 
-![image](assets/images/readme-images/beaches.png)
+    ![image](assets/images/readme-images/beaches.png)
 <br>
 
 - ### Activities Page
@@ -72,7 +93,7 @@ ___
     - The Activites page presents examples of activities that can be done in Algarve.
     - ALso presents info about them and their locations.  
 
-![image](assets/images/readme-images/activities.png)
+    ![image](assets/images/readme-images/activities.png)
 <br>
 
 - ### Sign Up Page
@@ -80,20 +101,20 @@ ___
     - The Sign Up page allows the user to contact to obtain more info regarding the content presented.
     - Also other info on other beaches or type of activites that we might be able to help with.  
 
-![image](assets/images/readme-images/signup.png)
+    ![image](assets/images/readme-images/signup.png)
 <br>
 
 - ### Confirmation Page
 
     - This page is to let the user know that the application has been received.  
 
-![image](assets/images/readme-images/confirmation.jpg)
+    ![image](assets/images/readme-images/confirmation.jpg)
 
 - ### 404 Error page
 
     - This is a 404 Error page, just stating that the page wasn't found and gives the user a choice of going back to the Home page.  
 
-![image](assets/images/readme-images/404errorpage.png)
+    ![image](assets/images/readme-images/404errorpage.png)
 <br>
 
 ___ 
@@ -134,47 +155,71 @@ ___
 
 - Created for mobile devices and desktops
     - Home Page  
-![image](assets/images/readme-images/wireframe/homewireframepcandmobile.webp)
+    ![image](assets/images/readme-images/wireframe/homewireframepcandmobile.webp)  
+<br>
     - Beaches Page  
-![image](assets/images/readme-images/wireframe/beacheswireframepcandmobile.webp)
+    ![image](assets/images/readme-images/wireframe/beacheswireframepcandmobile.webp)  
+<br>
     - Activities Page  
-![image](assets/images/readme-images/wireframe/activitieswireframepcandmobile.webp)
+    ![image](assets/images/readme-images/wireframe/activitieswireframepcandmobile.webp)  
+<br>
     - Sign Up Page  
-![Sign Up](assets/images/readme-images/wireframe/signupwireframepcandmobile.webp)
+    ![image](assets/images/readme-images/wireframe/signupwireframepcandmobile.webp)  
+<br>
     - Confirmation Page  
-![image](assets/images/readme-images/wireframe/confirmationwireframesmobile.webp)
+    ![image](assets/images/readme-images/wireframe/confirmationwireframesmobile.webp)  
+<br>
 
 ___
 
-## Validator Testing
+## Languages used and its tests
 
-- HTML
-    - No errors were found when tested with W3C vallidator
-        - [Home page](assets/images/readme-images/w3c-validator/homevalidator.png)
-        - [Beaches page](assets/images/readme-images/w3c-validator/beachesvalidator.png)
-        - [Activities page](assets/images/readme-images/w3c-validator/activitiesvalidator.png)
-        - [Sign Up page](assets/images/readme-images/w3c-validator/signupvalidator.png)
-        - [Confirmation page](assets/images/readme-images/w3c-validator/confirmationvalidator.png)
-        - [404 Error page](assets/images/readme-images/w3c-validator/404errorpagevalidator.png)
-- CSS
-    - No errors were found when tested with Jigsaw validator
-        - [CSS](assets/images/readme-images/w3c-validator/cssvalidator.png)
-- Accessibility
-    - I can confirm that the fonts and colors chosen are easy to read and also Lighthouse performed really good
+- HTML  
+    - No errors were found when tested with W3C vallidator  
+        - Home Page  
+        ![image](assets/images/readme-images/w3c-validator/homevalidator.png)  
+        <br>
+        - Beaches Page  
+        ![image](assets/images/readme-images/w3c-validator/beachesvalidator.png)  
+        <br>
+        - Activities Page  
+        ![image](assets/images/readme-images/w3c-validator/activitiesvalidator.png)  
+        <br>
+        - Sign Up Page  
+        ![image](assets/images/readme-images/w3c-validator/signupvalidator.png)  
+        <br>
+        - Confirmation Page  
+        ![image](assets/images/readme-images/w3c-validator/confirmationvalidator.png)  
+        <br>
+        - 404 Error Page  
+        ![image](assets/images/readme-images/w3c-validator/404errorpagevalidator.png)  
+        <br>
+- CSS  
+    - No errors were found when tested with Jigsaw validator  
+        - CSS  
+        ![image](assets/images/readme-images/w3c-validator/cssvalidator.png)  
+
 <br>
 
 ## Lighthouse screenshots
 
-- [Home page](assets/images/readme-images/lighthouse-performance/homeperformance.png)
+- ### Accessibility
+    - I can confirm that the fonts and colors chosen are easy to read and also Lighthouse performed really good  
 
-- [Beaches page](assets/images/readme-images/lighthouse-performance/beachesperformance.png)
-
-- [Activities page](assets/images/readme-images/lighthouse-performance/activitiesperformance.png)
-
-- [Sign Up page](assets/images/readme-images/lighthouse-performance/signupperformance.png)
-
-- [Confirmation page](assets/images/readme-images/lighthouse-performance/confirmationperformance.png)
-
+        - Home Page  
+![image](assets/images/readme-images/lighthouse-performance/homeperformance.png)  
+<br>
+        - Beaches Page  
+![image](assets/images/readme-images/lighthouse-performance/beachesperformance.png)  
+<br>
+        - Activities Page  
+![image](assets/images/readme-images/lighthouse-performance/activitiesperformance.png)  
+<br>
+        - Sign Up Page  
+![image](assets/images/readme-images/lighthouse-performance/signupperformance.png)  
+<br>
+        - Confirmation Page  
+![image](assets/images/readme-images/lighthouse-performance/confirmationperformance.png)  
 <br>
 ___ 
 
