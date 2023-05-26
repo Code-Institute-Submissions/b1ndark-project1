@@ -1,6 +1,6 @@
 # __ALGARVE__
 
-## This website is about Algarve,
+## This website is about [Algarve](https://b1ndark.github.io/project1/),
 <p>The website is targeted for everyone, from young to elderly, from couples to families, there’s something for everybody’s taste :).
 <p>You can explore the different beaches and types of activities you may desire to explore and feel the thrill.
 <p>Algarve is calling for you, expect adventures and wonderful memories with your love ones.
@@ -30,7 +30,14 @@ ___
 
 - [Programs and Tools](#programs-and-tools-used)
 - [Languages](#languages-used-and-its-tests)
+    - [HTML](#html)
+    - [CSS](#css)
 - [Lighthouse](#lighthouse-screenshots)
+    - [Home Page](#home-page-1)
+    - [Beaches Page](#beaches-page-1)
+    - [Activities Page](#activities-page-1)
+    - [Sign Up](#sign-up-page-1)
+    - [Confirmation Page](#confirmation-page-1)
 - [Testing](#testing)
     - [Bugs and solutions](#bugs)
     - [Problems](#problems)
@@ -49,12 +56,13 @@ Visitors:
 
 Goals:
 - To inform the user with provided content.
-- To offer a diversity of different experiences
+- To offer a diversity of different experiences.
+- To give the user an experience like no other.
 
 The website:
 - Starting at the top, the navigate bar is simple, easy to use and follows the user as the website is being scrolled down.
-- Within the nav bar the user will be able to access different pages, Home, Beaches, Activities and Sign Up
-- In each page there will be display information to the user
+- Within the nav bar the user will be able to access different pages, Home, Beaches, Activities and Sign Up.
+- In each page there will be display information to the user.
 - Sign up page, the user will be able to request information, when trying to submit the form while missing some details, the user will be notified.
     - once the form submitted the user will be notified of it.
 - At the bottom of each page (footer) the user will have access to contact details and social networks.
@@ -104,7 +112,7 @@ ___
 
 - #### Home Page
 
-    - The Home page presents a photo of Benagil cave located in Algarve
+    - The Home page presents a photo of Benagil cave located in Algarve.
     - The Home page presents a brief introduction to the user what Algarve is and where is it.  
 
     ![image](assets/images/readme-images/homepage.png)
@@ -152,26 +160,28 @@ ___
 
 ## Programs and tools used
 
-- [Codeanywhere](https://app.codeanywhere.com/) - To create the website
-- [Github](https://github.com/) - Where the website is stored
-- [Google Fonts](https://fonts.google.com/) - For the fonts used in the website
-- [Uiward](https://uizard.io/) - To create wireframes
-- [Favicon](https://favicon.io/) - To create favicon
-- [Am I Responsive?](https://ui.dev/amiresponsive) - To display the website on different websites
-- [Spell Check](https://chrome.google.com/webstore/detail/webpage-spell-check/mgdhaoimpabdhmacaclbbjddhngchjik/related) - To check spelling
-- [Google Tools](https://developer.chrome.com/docs/devtools/) - to check website styling and responsiveness
-- [Cloud Convert](https://cloudconvert.com/) - To convert the images to different files
-- [Gyazo](https://gyazo.com/) - To take Screenshots
-- [Google maps](https://www.google.com/maps/) - To provide locations
-- [Font Awesome](https://fontawesome.com/) - To display icons
+- [Codeanywhere](https://app.codeanywhere.com/) - To create the website.
+- [Github](https://github.com/) - Where the website is stored.
+- [Google Fonts](https://fonts.google.com/) - For the fonts used in the website.
+- [Uiward](https://uizard.io/) - To create wireframes.
+- [Favicon](https://favicon.io/) - To create favicon.
+- [Am I Responsive?](https://ui.dev/amiresponsive) - To display the website on different websites.
+- [Spell Check](https://chrome.google.com/webstore/detail/webpage-spell-check/mgdhaoimpabdhmacaclbbjddhngchjik/related) - To check spelling.
+- [Google Tools](https://developer.chrome.com/docs/devtools/) - to check website styling and responsiveness.
+- [Cloud Convert](https://cloudconvert.com/) - To convert the images to different files.
+- [Gyazo](https://gyazo.com/) - To take Screenshots.
+- [Google maps](https://www.google.com/maps/) - To provide locations.
+- [Font Awesome](https://fontawesome.com/) - To display icons.
+- [W3C HTML](https://validator.w3.org/#validate_by_input) - To verify HTML.
+- [W3C CSS](https://jigsaw.w3.org/css-validator/#validate_by_input) - To verify CSS.
 
 [Back to the top](#algarve)
 ___
   
 ## Languages used and its tests
 
-- HTML  
-    - No errors were found when tested with W3C vallidator  
+- ### HTML  
+    - No errors were found when tested with W3C vallidator.  
         - Home Page  
         ![image](assets/images/readme-images/w3c-validator/homevalidator.png)  
         <br>
@@ -196,8 +206,8 @@ ___
         ![image](assets/images/readme-images/w3c-validator/404errorpagevalidator.png)  
         <br>
 
-- CSS  
-    - No errors were found when tested with W3C validator  
+- ### CSS  
+    - No errors were found when tested with W3C (Jigsaw) validator.  
         - CSS  
         ![image](assets/images/readme-images/w3c-validator/cssvalidator.png)  
 
@@ -207,25 +217,25 @@ ___
 ## Lighthouse screenshots
 
 - ### Accessibility
-    - I can confirm that the fonts and colors chosen are easy to read and also Lighthouse performed really good  
+    - I can confirm that the fonts and colors chosen are easy to read and also Lighthouse performed really good.  
 
-        - Home Page  
+        - #### Home Page  
         ![image](assets/images/readme-images/lighthouse-performance/homeperformance.png)  
         <br>
 
-        - Beaches Page  
+        - #### Beaches Page  
         ![image](assets/images/readme-images/lighthouse-performance/beachesperformance.png)  
         <br>
 
-        - Activities Page  
+        - #### Activities Page  
         ![image](assets/images/readme-images/lighthouse-performance/activitiesperformance.png)  
         <br>
 
-        - Sign Up Page  
+        - #### Sign Up Page  
         ![image](assets/images/readme-images/lighthouse-performance/signupperformance.png)  
         <br>
 
-        - Confirmation Page  
+        - #### Confirmation Page  
         ![image](assets/images/readme-images/lighthouse-performance/confirmationperformance.png)  
         <br>
 
@@ -251,10 +261,10 @@ ___
     - Initially fixed it by using z-index, but as it was bad practice I found a way around it and removed the z-index.
 - Discovered that there was a bug with smaller screens where the Home button on the nav bar would go under the under the Sign Up button.
     - Reduced the letter-spacing to 1px.
-- Issue with scroll bar on horizontal
-    - fixed it by reducing px on the images width from 375px to 360px
-- The footer on the home page was showing in front of Algarve info
-    - fixed it by putting the Algarve info inside of DIVs
+- Issue with scroll bar on horizontal.
+    - fixed it by reducing px on the images width from 375px to 360px.
+- The footer on the home page was showing in front of Algarve info.
+    - fixed it by putting the Algarve info inside of DIVs.
 <br>
 
 [Back to the top](#algarve)
@@ -275,8 +285,8 @@ ___
 ## Deployment
 
 - The website was deployed to Github pages. Steps to deploy:
-    - In the Github repository, navigate to the settings tab
-    - then scroll down and on your left select Pages and go to branch
+    - In the Github repository, navigate to the settings tab.
+    - then scroll down and on your left select Pages and go to branch.
     - once the master branch has been selected, wait a moment and it will provide a page link to the website.
 The live link can be found here - [My Website](https://b1ndark.github.io/project1/)
 <br>
