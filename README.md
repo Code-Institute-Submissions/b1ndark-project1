@@ -262,9 +262,12 @@ ___
 
 ## Problems
 
-- I did have a problem with website running on Chrome, it was accused of being unsafe([Screenshot](assets/images/readme-images/bug/deceptivesite.png)), I tried it on different browsers such as Firefox, Safari, Microsoft Edge and they all worked fine with no issues.
-- I couldn't find any issues with any part of the code so I contacted Google regarding the issue and requested them to verify the website by following this [steps](https://support.google.com/webmasters/answer/9008080?hl=en#cms&zippy=%2Csites-that-use-a-website-hosting-platform-wordpress-shopify-wix-etc). After being verified, it was considered safe again ([Screenshot](assets/images/readme-images/bug/googlesafe.webp)). 
-<br>
+- I did have a problem with website running on Chrome, it was accused of being unsafe, I tried it on different browsers such as Firefox, Safari, Microsoft Edge and they all worked fine with no issues.  
+    ![image](assets/images/readme-images/bug/deceptivesite.png)  
+    <br>
+- I couldn't find any issues with any part of the code so I contacted Google regarding the issue and requested them to verify the website by following this [steps](https://support.google.com/webmasters/answer/9008080?hl=en#cms&zippy=%2Csites-that-use-a-website-hosting-platform-wordpress-shopify-wix-etc). After being verified, it was considered safe again.  
+    ![image](assets/images/readme-images/bug/googlesafe.webp)  
+    <br>
 
 [Back to the top](#algarve)
 ___
