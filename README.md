@@ -248,11 +248,11 @@ ___
 ## Bugs
 
 - Fixed issue with header where the form was overlapping the header.
-    - Initialy fixed it by using z-index, but as it was bad practice I found a way around it and removed the z-index.
+    - Initially fixed it by using z-index, but as it was bad practice I found a way around it and removed the z-index.
 - Discovered that there was a bug with smaller screens where the Home button on the nav bar would go under the under the Sign Up button.
     - Reduced the letter-spacing to 1px.
 - Issue with scroll bar on horizontal
-    - fixed it is by reducing px on the images width from 375px to 360px
+    - fixed it by reducing px on the images width from 375px to 360px
 - The footer on the home page was showing in front of Algarve info
     - fixed it by putting the Algarve info inside of DIVs
 <br>
@@ -263,7 +263,7 @@ ___
 ## Problems
 
 - I did have a problem with website running on Chrome, it was accused of being unsafe([Screenshot](assets/images/readme-images/bug/deceptivesite.png)), I tried it on different browsers such as Firefox, Safari, Microsoft Edge and they all worked fine with no issues.
-- I couldn't find any issues with any part of the code so I contacted google regarding the issue and requested them to verify the website by following this [steps](https://support.google.com/webmasters/answer/9008080?hl=en#cms&zippy=%2Csites-that-use-a-website-hosting-platform-wordpress-shopify-wix-etc). After being verified, it was considered safe again ([Screenshot](assets/images/readme-images/bug/googlesafe.webp)). 
+- I couldn't find any issues with any part of the code so I contacted Google regarding the issue and requested them to verify the website by following this [steps](https://support.google.com/webmasters/answer/9008080?hl=en#cms&zippy=%2Csites-that-use-a-website-hosting-platform-wordpress-shopify-wix-etc). After being verified, it was considered safe again ([Screenshot](assets/images/readme-images/bug/googlesafe.webp)). 
 <br>
 
 [Back to the top](#algarve)
@@ -274,7 +274,7 @@ ___
 - The website was deployed to Github pages. Steps to deploy:
     - In the Github repository, navigate to the settings tab
     - then scroll down and on your left select Pages and go to branch
-    - once the master branch has been selected, wait a momment and it will provide a page link to the website.
+    - once the master branch has been selected, wait a moment and it will provide a page link to the website.
 The live link can be found here - [My Website](https://b1ndark.github.io/project1/)
 <br>
 
