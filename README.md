@@ -25,19 +25,21 @@ ___
         - [Activities Page](#activities-page)
         - [Sign Up Page](#sign-up-page)
         - [Confirmation Page](#confirmation-page)
-        - [404 Error Page](#404-error-page)
-    - [Accessibility](#accessibility)
+        - [404 Error Page](#404-error-page) 
 
 - [Programs and Tools](#programs-and-tools-used)
 - [Languages](#languages-used-and-its-tests)
     - [HTML](#html)
     - [CSS](#css)
-- [Lighthouse](#lighthouse-screenshots)
-    - [Home Page](#home-page-1)
-    - [Beaches Page](#beaches-page-1)
-    - [Activities Page](#activities-page-1)
-    - [Sign Up](#sign-up-page-1)
-    - [Confirmation Page](#confirmation-page-1)
+
+- [Accessibility](#accessibility)
+    - [Lighthouse](#lighthouse)
+        - [Home Page](#home-page-1)
+        - [Beaches Page](#beaches-page-1)
+        - [Activities Page](#activities-page-1)
+        - [Sign Up](#sign-up-page-1)
+        - [Confirmation Page](#confirmation-page-1)
+
 - [Testing](#testing)
     - [Bugs and solutions](#bugs)
     - [Problems](#problems)
@@ -72,6 +74,20 @@ ___
 
 ## __Design__  
 
+### Typography
+
+Fonts used came from [Google Fonts](https://fonts.google.com/):
+- [Nunito, sans-serif](https://fonts.google.com/specimen/Nunito+Sans)
+- ['PT Sans', sans-serif](https://fonts.google.com/specimen/PT+Sans)
+
+Font colors used:
+- Very dark gray: #414141
+- Very dark gray (mostly black): #292929
+- white color: #fff
+<br>
+
+[Back to the top](#algarve)
+___
 
 ### Wireframes  
 
@@ -174,6 +190,7 @@ ___
 - [Font Awesome](https://fontawesome.com/) - To display icons.
 - [W3C HTML](https://validator.w3.org/#validate_by_input) - To verify HTML.
 - [W3C CSS](https://jigsaw.w3.org/css-validator/#validate_by_input) - To verify CSS.
+- [Microsoft Word](https://www.microsoft.com/en-gb/microsoft-365/word?activetab=tabs%3afaqheaderregion3) - Used to write most of my documents.
 
 [Back to the top](#algarve)
 ___
@@ -214,9 +231,20 @@ ___
 [Back to the top](#algarve)
 ___
 
-## Lighthouse screenshots
+## Accessibility
 
-- ### Accessibility
+I did focus on making sure that the website is accessible:
+- The nav menus display the current page opened.
+- nav bar follows the user as the page is being scrolled down.
+- Semantic HTML.
+- colour contrast in every page.
+- Images displayed on every page have descriptive alt attributes.
+- Kept the website simple but beautiful.
+
+[Back to the top](#algarve)
+___
+
+- ### Lighthouse
     - I can confirm that the fonts and colors chosen are easy to read and also Lighthouse performed really good.  
 
         - #### Home Page  
