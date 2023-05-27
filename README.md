@@ -52,9 +52,9 @@ ___
 ## __User Experience__  
 
 Visitors:
-- User will be presented with a website that will help them with the next Algarve trip.
+- Users will be presented with a website that will help them get information about Algarve.
 - The users will acquire knowledge of what they might be interested in, either beaches or activities.
-- They will be able to request info on the content that is either being displayed or that they might have heard about (beaches or activities). 
+- They will be able to request info on the content that is either being displayed or that they might have heard about in the Algarve (beaches or activities). 
 
 Goals:
 - To inform the user with provided content.
@@ -62,11 +62,11 @@ Goals:
 - To give the user an experience like no other.
 
 The website:
-- Starting at the top, the navigate bar is simple, easy to use and follows the user as the website is being scrolled down.
+- Starting at the top, the navigate bar is simple, easy to use and follows the user as the page is being scrolled down.
 - Within the nav bar the user will be able to access different pages, Home, Beaches, Activities and Sign Up.
-- In each page there will be display information to the user.
+- In each page there will be information presented to the user.
 - Sign up page, the user will be able to request information, when trying to submit the form while missing some details, the user will be notified.
-    - once the form submitted the user will be notified of it.
+    - once the form is submitted the user will have a message stating that the application has been received.
 - At the bottom of each page (footer) the user will have access to contact details and social networks.
 
 [Back to the top](#algarve)
@@ -239,7 +239,7 @@ I did focus on making sure that the website is accessible:
 - Semantic HTML.
 - colour contrast in every page.
 - Images displayed on every page have descriptive alt attributes.
-- Kept the website simple but beautiful.
+- Kept the website simple and easy to navigate.
 
 [Back to the top](#algarve)
 ___
@@ -272,7 +272,7 @@ ___
 
 ## Testing
 
-- I have tested the website and it works on different types of browsers like Chrome, Safari and Firefox.
+- I have tested the website and it works on different types of browsers like Chrome, Safari, Microsoft Edge and Firefox.
 - I have also tested and work on different mobile phone brands such Iphones, Realmes, Huaweis, Samsungs and also Xiaomis.
 - The project is responsive as I have tested it on different types of screen sizes using devtools.
 - All content of every page is readable and easy to understand.
@@ -313,9 +313,12 @@ ___
 ## Deployment
 
 - The website was deployed to Github pages. Steps to deploy:
-    - In the Github repository, navigate to the settings tab.
-    - then scroll down and on your left select Pages and go to branch.
-    - once the master branch has been selected, wait a moment and it will provide a page link to the website.
+    1. Log in into your github account.
+    2. In the Github repository select the project.
+    3. Navigate to the settings tab.
+    4. Then scroll down and on your left select Pages.
+    5. Go to branch, and select master branch.
+    6. Once master branch is selected, wait a moment and it will provide a page link to the website.
 The live link can be found here - [My Website](https://b1ndark.github.io/project1/)
 <br>
 
@@ -362,5 +365,13 @@ ___
         - [Instagram](https://www.instagram.com/)
         - [Twitter](https://twitter.com/)
         - [Youtube](https://www.youtube.com/)
+
+[Back to the top](#algarve)
+___ 
+
+## Acknowledgments
+
+- I would like to thank my mentor [Graeme Taylor](https://github.com/G-Taylor) for helping me along the way in completing my First milestone project.
+- Also, I would like to thank Code Institute Tutors for trying to help me when I had issues with Google Chrome regarding the safety of my website.
 
 [Back to the top](#algarve)
